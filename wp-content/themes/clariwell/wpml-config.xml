@@ -1,0 +1,6 @@
+<wpml-config>
+<custom-types>
+<custom-type translate="1">testimonial_post</custom-type>
+<custom-type translate="1">portfolio</custom-type>
+</custom-types>
+</wpml-config>

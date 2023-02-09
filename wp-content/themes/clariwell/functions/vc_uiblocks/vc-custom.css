@@ -1,0 +1,397 @@
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-list-bar-item-actions button:nth-child(2) {
+    display: none;
+}
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list {
+    padding: 20px;
+    box-sizing: border-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list > .vc_ui-template {
+    padding: 20px;
+    box-sizing: border-box;
+    display: -webkit-flex;
+    display: flex;
+}
+@media only screen and (min-width: 1825px) {
+    .vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list > .vc_ui-template {
+        width: 33.1%;
+    }
+}
+@media only screen and (max-width: 1825px) {
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list > .vc_ui-template {
+    width: 49.6%;
+}
+}
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list > .vc_ui-template .img-wrap {
+    line-height: 0;
+    border-bottom: 1px solid rgba(0,0,0,0.07);
+}
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list > .vc_ui-template .img-wrap img {
+    width: 100%;
+    height: auto;
+}
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list > .vc_ui-template .vc_ui-list-bar-item {
+    display: block!important;
+    flex-wrap: initial;
+    -webkit-box-pack: initial;
+    align-items: initial;
+    flex-direction: initial;
+    -webkit-box-align: initial;
+    -webkit-box-direction: initial;
+    justify-content: initial;
+    text-align: center;
+    background-color: #fff;
+    transition: box-shadow 0.25s, transform 0.25s;
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px);
+    backface-visibility: hidden;
+    overflow: hidden;
+    border-radius: 4px;
+    height: 100%;
+}
+.vc_ui-list-bar-item-actions {
+    position: relative;
+}
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-list-bar-item-actions .vc_general.vc_ui-control-button {
+    position: absolute;
+    display: none!important;
+    bottom: 5px;
+    left: 50%;
+    margin-left: -13px;
+}
+[data-vc-template-search=true] .vc_edit-form-tab:not(.vc_active) {
+    display: none!important;
+}
+body [data-vc-template-search=true] .vc_edit-form-tab.vc-search-result-empty.vc_active {
+    display: -webkit-box!important;
+    display: -ms-flexbox!important;
+    display: flex!important;
+}
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list .display_cat {
+    margin-top: 35px;
+    font-size: 14px;
+    opacity: 0.7;
+}
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list > .vc_ui-template.hidden {
+    display: none!important;
+}
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list > .vc_ui-template .vc_ui-list-bar-item:hover {
+    -webkit-transform: translateY(-6px) translateZ(0);
+    transform: translateY(-6px) translateZ(0);
+    backface-visibility: hidden;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.13);
+    -webkit-box-shadow: 0 20px 35px rgba(0, 0, 0, 0.13);
+}
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list > .vc_ui-template .vc_ui-list-bar-item > button {
+    -webkit-transition: 0.25s;
+    transition: 0.25s;
+}
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list > .vc_ui-template .vc_ui-list-bar-item:hover > button {
+    color: #18a1f9;
+}
+.vc_edit-form-tab[data-tab="default_templates"] .vc_ui-template-list > .vc_ui-template .vc_ui-list-bar-item {
+    border-top: 0;
+}
+.vc_edit-form-tab[data-tab="default_templates"]  .vc_ui-template-list .vc_ui-list-bar-item-trigger {
+    font-weight: 700;
+    font-size: 20px;
+    white-space: initial;
+    padding: 10px 0 35px 0;
+    text-overflow: initial;
+    max-width: 75%!important;
+    text-align: center;
+    line-height: 32px;
+}
+.vc_edit-form-tab[data-tab="default_templates"] > .vc_col-md-12 { display: none;}
+.vc_edit-form-tab[data-tab="default_templates"] > .vc_col-sm-12, .vc_edit-form-tab[data-tab="default_templates"] > .vc_column  {
+    padding-left: 235px;
+    background-color: #f1f1f1;
+    max-height: 70vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.vc_templates-panel.vc_active .vc_edit-form-tab[data-tab="default_templates"].vc_active > .library_categories {
+    visibility: visible;
+}
+.vc_edit-form-tab[data-tab="default_templates"] > .library_categories {
+    position: absolute;
+    visibility: hidden;
+    top: 0;
+    left: 0;
+    height: 100%;
+    z-index: 100;
+    padding:0px 0 18px 0;
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+    width: 235px;
+}
+.vc_edit-form-tab[data-tab="default_templates"] > .library_categories ul{background-color: #f9f9f9; padding:10px 0 10px 0; margin:0;}
+.vc_edit-form-tab[data-tab="default_templates"] { padding-top: 0; margin-top: -18px; margin-left: 0; margin-right: -17px; margin-bottom: -18px;}
+.vc_edit-form-tab[data-tab="default_templates"] > .library_categories li {
+    cursor: pointer;
+    color: #252525;
+    position: relative ;
+    padding:11px 20px 11px 20px; margin:0; border-bottom:1px solid #e7e7e7;
+}
+.vc_edit-form-tab[data-tab="default_templates"] > .vc_col-sm-12, .vc_edit-form-tab[data-tab="default_templates"] > .vc_column {
+    min-height: 0;
+}
+
+.vc_edit-form-tab[data-tab="default_templates"] > .library_categories li span {
+    right: 0;
+    padding: 4px 6px;
+    font-size: 11px;
+    line-height: 11px;
+    background-color: rgba(0,0,0,0.07);
+    border-radius: 4px; float:right;
+}
+.vc_edit-form-tab[data-tab="default_templates"] > .library_categories li.active {
+    color: #fff; background:#f7224a;
+}
+.vc_edit-form-tab[data-tab="default_templates"] > .library_categories li:hover .count,
+.vc_edit-form-tab[data-tab="default_templates"] > .library_categories li.active .count {
+    color: #f7224a;
+    background-color:#fff;
+}
+.vc_edit-form-tab[data-tab="default_templates"] > .library_categories li:not(.active):hover {
+    color: #fff; background:#f7224a;
+}
+.vc_navbar .vc_navbar-brand {
+    display: none !important;
+}
+
+/*Image gallery*/
+
+.vc_properties-list .vc_wrapper-param-type-textfield[data-vc-shortcode-param-name="slick_center_desktop_padding"],
+.vc_properties-list .vc_wrapper-param-type-textfield[data-vc-shortcode-param-name="slick_center_small_desktop_padding"],
+.vc_properties-list .vc_wrapper-param-type-textfield[data-vc-shortcode-param-name="slick_center_tablet_padding"],
+.vc_properties-list .vc_wrapper-param-type-dropdown[data-vc-shortcode-param-name="desktop_no_of_items"],
+.vc_properties-list .vc_wrapper-param-type-dropdown[data-vc-shortcode-param-name="small_desktop_no_of_items"],
+.vc_properties-list .vc_wrapper-param-type-dropdown[data-vc-shortcode-param-name="tablet_no_of_items"]{ width:33.3333%;}
+
+
+/* VC Template */
+
+.wp-admin .invictus-sorting-container {
+		width:235px!important;
+		height: 100%;
+		margin-bottom: 0;
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 10;
+		background-color: #fff;
+		visibility: hidden;
+		overflow-x: hidden;
+		overflow-y: auto;
+}
+
+.wp-admin .invictus-sorting-container .sortable_templates {
+		display: block;
+		padding: 0.5em 0;
+		margin: 0 -15px;
+}
+
+.wp-admin .invictus-sorting-container .sortable_templates ul {
+		display: block;
+		width: 100%;
+		margin: 0;
+		padding: 1.5em 0;
+		font-family: 'Karla';
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+}
+
+.wp-admin .invictus-sorting-container .sortable_templates li {
+		display: block;
+		padding: 1em 25px 1em 40px;
+		margin: 0;
+		position: relative;
+		font-family: 'Poppins', sans-serif;
+		font-size: 13px;
+		line-height: 1.5;
+		font-weight: 500;
+		color: #000;
+		cursor: pointer;
+}
+
+.wp-admin .invictus-sorting-container .sortable_templates li span {
+		display: inline-block;
+		padding: 7px 10px 6px;
+		border-radius: 50em;
+		float: right;
+		position: relative;
+		top: -3px;
+		background-color: rgba(0, 0, 0, 0.08);
+		font-size: 11px;
+		line-height: 1em;
+		font-weight: 500;
+		text-align: center;
+		color: #000;
+		opacity:1;
+		-webkit-transition: all 0.3s;
+		transition: all 0.3s;
+		-webkit-transform: translate3d(-3px, 0, 0);
+		transform: translate3d(-3px, 0, 0);
+}
+
+.wp-admin .invictus-sorting-container .sortable_templates li:hover, .wp-admin .invictus-sorting-container .sortable_templates li.active {
+		background-color: #f9f9f9;
+		color: #f7224a;
+}
+
+.wp-admin .invictus-sorting-container .sortable_templates li:hover span, .wp-admin .invictus-sorting-container .sortable_templates li.active span {
+		opacity: 1;
+		-webkit-transform: translate3d(0, 0, 0);
+		transform: translate3d(0, 0, 0);
+		background-color:#f7224a; color:#fff;
+}
+
+.wp-admin .vc_templates-panel.vc_active .invictus-sorting-container {
+		visibility: visible;
+}
+
+.vc_edit-form-tab[data-tab="invictus_templates"] {
+    margin: -18px -18px -14px 0;
+    padding-top: 0;
+}
+.wp-admin .invictus-templates-container {
+		/*width: auto !important;margin: -35px -17px -35px -35px;padding-right: 0;*/
+		max-height: 70vh;
+		overflow-x: hidden;
+		overflow-y: scroll;
+		padding-left: 235px; padding-top:50px;
+}
+
+.wp-admin .invictus-templates-container .vc_ui-template-list {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+		padding: 0 20px;
+}
+
+.wp-admin .invictus-templates-container .vc_ui-template-list:before, .wp-admin .invictus-templates-container .vc_ui-template-list:after {
+		content: "";
+		display: table;
+}
+
+.wp-admin .invictus-templates-container .vc_ui-template-list:after {
+		clear: both;
+}
+
+.wp-admin .invictus-templates-container .vc_ui-template {
+		float: left;
+		width: calc(33.33333333333333% - 40px);
+		padding:20px;
+		-webkit-transform: translate3d(0, 0, 0);
+		transform: translate3d(0, 0, 0);
+}
+
+.wp-admin .invictus-templates-container .vc_ui-template.is-loading .vc_ui-list-bar-item-actions button {
+		opacity: 1;
+}
+
+.wp-admin .invictus-templates-container .vc_ui-list-bar-item {justify-content:flex-start;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+		padding-bottom: 1em;
+		border: none;
+		height:100%;
+		overflow: hidden;
+		background-color: #fff;
+		-webkit-box-shadow: 0 2px 50px rgba(0, 0, 0, 0.13);
+		box-shadow: 0 2px 50px rgba(0, 0, 0, 0.13);
+		font-family: 'Poppins';
+		-webkit-transition: all 0.3s ease;
+		transition: all 0.3s ease;
+}
+
+.wp-admin .invictus-templates-container .vc_ui-list-bar-item:hover {
+		background-color: #fff;
+		-webkit-transform: translate3d(0, -2px, 0);
+		transform: translate3d(0, -2px, 0);
+		-webkit-box-shadow: 0 15px 50px rgba(0, 0, 0, 0.11);
+		box-shadow: 0 15px 50px rgba(0, 0, 0, 0.11);
+}
+
+.wp-admin .invictus-templates-container .invictus-template-preview {
+		width: 100%;
+		position: relative;
+		padding-bottom: 1em;
+		overflow: hidden;
+}
+
+.wp-admin .invictus-templates-container .invictus-template-preview img {
+		width: 100%;
+		height: auto;
+		max-width: 100%;
+		position: relative;
+		z-index: 2;
+}
+
+.wp-admin .invictus-templates-container .invictus-template-categories {
+		margin-bottom: 0.5em;
+		font-family: 'Poppins', sans-serif;
+		font-size: 13px;
+		font-weight: 400;
+		color: rgba(0, 0, 0, 0.3);
+}
+
+.wp-admin .invictus-templates-container .vc_ui-list-bar-item-trigger {
+		width: 100%;
+		margin: 0.25em 0 0.75em;
+		padding: 0 20px;
+		font-weight: 600;
+		font-family: 'Poppins', sans-serif;
+		font-size: 15px;
+		line-height: 1.5em;
+		letter-spacing: 0.01em;
+		white-space: normal;
+		text-align: center;
+}
+
+.wp-admin .invictus-templates-container .vc_ui-list-bar-item-actions {
+		display: block;
+		width: 100%;
+		height: 100%;
+		padding: 0;
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		z-index: 3;
+		opacity: 1;
+		visibility: visible;
+}
+
+.wp-admin .invictus-templates-container .vc_ui-list-bar-item-actions button {
+		display: inline-block;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(0, 0, 0, 0.7);
+		color: #fff;
+		opacity: 0;
+}
+
+.wp-admin .invictus-templates-container .vc_ui-list-bar-item-actions button i {
+		display: inline-block;
+		font-size: 46px !important;
+}
+
+.wp-admin .vc_edit-form-tab[data-tab="invictus_templates"] .vc_ui-template-list > .vc_ui-template.hidden {
+		display: none !important;
+}
+
+.wp-admin .vc_ui-panel .vc_panel-tabs [data-vc-panel-message] {
+		margin-left: 180px;
+		position: relative;
+		z-index: 10;
+}

@@ -1,0 +1,24 @@
+[25-Dec-2018 01:41:59 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/insigkgg/public_html/clariwell/wp-content/themes/clariwell/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/insigkgg/public_html/clariwell/wp-content/themes/clariwell/index.php on line 1
+[02-May-2019 13:27:38 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/insigkgg/public_html/clariwell/wp-content/themes/clariwell/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/insigkgg/public_html/clariwell/wp-content/themes/clariwell/index.php on line 1
+[14-Jan-2020 15:07:28 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/insigkgg/public_html/clariwell/wp-content/themes/clariwell/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/insigkgg/public_html/clariwell/wp-content/themes/clariwell/index.php on line 1
+[14-Jan-2020 15:07:28 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/insigkgg/public_html/clariwell/wp-content/themes/clariwell/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/insigkgg/public_html/clariwell/wp-content/themes/clariwell/index.php on line 1
+[14-Jan-2020 15:07:28 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/insigkgg/public_html/clariwell/wp-content/themes/clariwell/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/insigkgg/public_html/clariwell/wp-content/themes/clariwell/index.php on line 1
+[14-Jan-2020 15:07:28 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/insigkgg/public_html/clariwell/wp-content/themes/clariwell/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/insigkgg/public_html/clariwell/wp-content/themes/clariwell/index.php on line 1

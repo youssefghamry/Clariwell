@@ -1,0 +1,675 @@
+/*Readux framework styles*/
+.wp-core-ui .button-primary {
+    background: #0071a1 !important;
+    border-color: #0071a1 !important;
+    color: #fff;
+}
+
+.redux-notice-field p {
+   font-size: 15px;
+   font-weight: 600;
+   letter-spacing: 0.08em;
+}
+
+.redux-notice-field {
+   background-color: #eee;
+   margin: 25px 0;
+   border-left: 0;
+}
+
+.wpb_element_wrapper .font-awesome .vc_element-icon {
+   background: none !important;
+}
+
+#visual_composer_content .font-awesome .wpb_element_wrapper:before {
+   position: absolute;
+   font-family: FontAwesome;
+   -webkit-font-smoothing: antialiased;
+   font-weight: 300;
+   font-style: normal;
+   color: #FFF;
+   font-size: 24px;
+   left: 9px;
+   background: #4290f4;
+   top: 11px;
+   line-height: 36px;
+   width: 36px;
+   max-width: 36px;
+   margin: 0 auto;
+   height: 36px;
+   border-radius: 5px;
+   text-align: center;
+}
+
+#visual_composer_content .wpb_portfolio .wpb_element_wrapper:before {
+   content: "\f00a";
+}
+
+#visual_composer_content .wpb_blog_news .wpb_element_wrapper:before {
+   content: "\f15c";
+}
+
+#visual_composer_content .wpb_insignia_image_gallery .wpb_element_wrapper:before {
+   content: "\f03e";
+}
+
+#visual_composer_content .wpb_insignia_pricing_table .wpb_element_wrapper:before {
+   content: "\f155";
+}
+
+#visual_composer_content .wpb_counter .wpb_element_wrapper:before {
+   content: "\f162";
+}
+
+#visual_composer_content .wpb_twitter_feed .wpb_element_wrapper:before {
+   content: "\f099";
+}
+
+#visual_composer_content .wpb_insignia_instagram_feed .wpb_element_wrapper:before {
+   content: "\f16d";
+}
+
+#visual_composer_content .wpb_team_member .wpb_element_wrapper:before {
+   content: "\f007";
+}
+
+#visual_composer_content .wpb_vc_video_box .wpb_element_wrapper:before {
+   content: "\f144";
+}
+
+#visual_composer_content .wpb_testimonial .wpb_element_wrapper:before {
+   content: "\f10e";
+}
+
+#visual_composer_content .wpb_insignia_button .wpb_element_wrapper:before {
+   content: "\f096";
+}
+
+#visual_composer_content .wpb_product_cat .wpb_element_wrapper:before {
+   content: "\f07a";
+}
+
+#visual_composer_content .wpb_event_list .wpb_element_wrapper:before {
+   content: "\f073";
+}
+
+#visual_composer_content .wpb_insignia_icon_box .wpb_element_wrapper:before {
+   content: "\f05d";
+}
+
+#visual_composer_content .wpb_insignia_simple_icon_list .wpb_element_wrapper:before {
+   content: "\f0ca";
+}
+
+#visual_composer_content .wpb_insignia_social_icons .wpb_element_wrapper:before {
+   content: "\f09a";
+}
+
+#visual_composer_content .wpb_insignia_image_box .wpb_element_wrapper:before {
+   content: "\f03e";
+}
+
+#visual_composer_content .wpb_insignia_section_heading .wpb_element_wrapper:before {
+   content: "\f1dc";
+}
+
+#visual_composer_content .wpb_insignia_fancy_icon_box .wpb_element_wrapper:before {
+   content: "\f05d";
+}
+
+#visual_composer_content .wpb_insignia_google_map .wpb_element_wrapper:before {
+   content: "\f278";
+}
+
+#visual_composer_content .wpb_insignia_clients_logos .wpb_element_wrapper:before {
+   content: "\f13c";
+}
+
+#visual_composer_content .wpb_insignia_team .wpb_element_wrapper:before {
+   content: "\f007";
+}
+
+#visual_composer_content .wpb_insignia_interactive_banner .wpb_element_wrapper:before {
+   content: "\f2c3";
+}
+
+#visual_composer_content .wpb_pricing_box .wpb_element_wrapper:before {
+   content: "\f155";
+}
+
+#visual_composer_content .wpb_message_box .wpb_element_wrapper:before {
+   content: "\f06a";
+}
+
+#visual_composer_content .wpb_blockquotes .wpb_element_wrapper:before {
+   content: "\f10e";
+}
+
+#visual_composer_content .wpb_insignia_table .wpb_element_wrapper:before {
+   content: "\f0ce";
+}
+
+#visual_composer_content .wpb_insignia_icon_list .wpb_element_wrapper:before {
+   content: "\f0ca";
+}
+
+#visual_composer_content .wpb_insignia_flip_box .wpb_element_wrapper:before {
+   content: "\f01e";
+}
+
+#visual_composer_content .wpb_insignia_number_box .wpb_element_wrapper:before {
+   content: "\f05d";
+}
+
+#visual_composer_content .wpb_insignia_before_after_image_slider .wpb_element_wrapper:before {
+   content: "\f096";
+}
+
+#visual_composer_content .wpb_insignia_toggle .wpb_element_wrapper:before {
+   content: "\f096";
+}
+
+#visual_composer_content .wpb_insignia_process_step .wpb_element_wrapper:before {
+   content: "\f201";
+}
+
+.vc_shortcode-link.font-awesome_nav i.vc_element-icon,
+.vc_shortcode-link.vntd-element_nav i.vc_element-icon {
+   left: 10px;
+   height: auto;
+   border-radius: 0;
+   line-height: 36px;
+   background: none;
+   width: 36px;
+   height: 36px;
+   color: #fff;
+   border-radius: 100%;
+   margin-top: -2px;
+   font-size: 16px;
+   background-color: #4290f4;
+   text-align: center;
+}
+
+@font-face {
+   font-family: 'themify';
+   src: url('../fonts/themify.eot?-fvbane');
+   src: url('../fonts/themify.eot?#iefix-fvbane') format('embedded-opentype'), url('../fonts/themify.woff?-fvbane') format('woff'), url('../fonts/themify.ttf?-fvbane') format('truetype'), url('../fonts/themify.svg?-fvbane#themify') format('svg');
+   font-weight: normal;
+   font-style: normal;
+}
+
+.redux-container-image_select .redux-image-select .tiles,
+.redux-container-image_select .redux-image-select img,
+.redux-container-image_select .redux-image-select-selected .tiles,
+.redux-container-image_select .redux-image-select-selected img {
+   border-width: 4px;
+   padding: 4px;
+   border-radius: 4px;
+   max-width: 114px;
+   border-color: transparent;
+}
+
+
+/*
+.redux-container-image_select ul.redux-image-select span {
+    text-align: center;
+    font-size: 12px;
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+.redux-container .redux-section-indent-start {
+    padding-top: 0;
+    margin-top: 50px;
+}
+.redux-main .form-table-section-indented {
+    margin-left: 0 !important;
+    width: 100%;
+}
+
+*/
+
+
+/* --------------------------------------
+ Redux framwork style
+-----------------------------------------*/
+
+#redux-sticky .button {
+   background: #fff;
+   border-color: #535A72;
+   box-shadow: none;
+   text-decoration: none;
+   text-shadow: none;
+   height: 35px;
+   color: #535A72;
+   font-weight: 700;
+   line-height: 33px;
+   padding: 0 20px;
+   margin: 0 5px;
+   float: left;
+}
+
+#redux-sticky .button:hover {
+   background: #333;
+   border-color: #333;
+   color: #fff;
+}
+
+#redux-sticky .button-primary {
+   background: #535A72;
+   border-color: #535A72;
+   box-shadow: none;
+   color: #fff;
+   text-decoration: none;
+   text-shadow: none;
+   height: 35px;
+   font-weight: 700;
+   line-height: 33px;
+}
+
+#redux-sticky .button-primary:hover {
+   background: #333;
+   border-color: #333;
+}
+
+#redux-footer .button {
+   background: #fff;
+   border-color: #535A72;
+   box-shadow: none;
+   text-decoration: none;
+   text-shadow: none;
+   height: 35px;
+   color: #535A72;
+   font-weight: 700;
+   line-height: 33px;
+   padding: 0 20px;
+   margin: 0 5px;
+}
+
+#redux-footer .button:hover {
+   background: #333;
+   border-color: #333;
+   color: #fff;
+}
+
+#redux-footer .button-primary {
+   background: #535A72;
+   border-color: #535A72;
+   box-shadow: none;
+   color: #fff;
+   text-decoration: none;
+   text-shadow: none;
+   height: 35px;
+   font-weight: 700;
+   line-height: 33px;
+   margin: 0 5px;
+}
+
+#redux-footer .button-primary:hover {
+   background: #333;
+   border-color: #333;
+}
+
+#redux-form-wrapper input:focus {
+   box-shadow: none;
+   border-color: #535A72;
+}
+
+#redux-form-wrapper .select2-container .select2-choice {
+   display: block;
+   height: 33px;
+   padding: 0 0 0 8px;
+   overflow: hidden;
+   position: relative;
+   border: 1px solid #ddd;
+   white-space: nowrap;
+   line-height: 33px;
+   color: #333;
+   text-decoration: none;
+   border-radius: 4px;
+   background-clip: padding-box;
+   -webkit-touch-callout: none;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+   background-color: #fff;
+   background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eee), color-stop(0.5, #fff));
+   background-image: -webkit-linear-gradient(center bottom, #eee 0%, #fff 50%);
+   background-image: -moz-linear-gradient(center bottom, #eee 0%, #fff 50%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#eeeeee', GradientType=0);
+   background-image: none;
+}
+
+#redux-form-wrapper .el-icon-question-sign {
+   color: #535A72;
+}
+
+#redux-form-wrapper .wp-color-result-text {
+   background: #fff;
+   border-radius: 0 2px 2px 0;
+   border-left: 1px solid #ddd;
+   color: #333;
+   display: block;
+   line-height: 22px;
+   padding: 0 6px;
+   text-align: center;
+}
+
+#redux-form-wrapper .select2-container .select2-choice .select2-arrow {
+   display: inline-block;
+   width: 18px;
+   height: 100%;
+   position: absolute;
+   right: 0;
+   line-height: 35px;
+   top: 0;
+   border-left: 1px solid #ddd;
+   border-radius: 0 4px 4px 0;
+   background-clip: padding-box;
+   background: #fff;
+   background-image: none;
+   background-image: none;
+   background-image: none;
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#cccccc', GradientType=0);
+   background-image: none;
+}
+
+.redux-container {
+   background-color: #f5f5f5;
+   background-repeat: repeat-x;
+   background-image: -moz-linear-gradient(top, #f2f2f2 0, #f5f5f5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #f2f2f2), color-stop(100%, #f5f5f5));
+   background-image: -webkit-linear-gradient(top, #f2f2f2 0, #f5f5f5 100%);
+   background-image: -ms-linear-gradient(top, #f2f2f2 0, #f5f5f5 100%);
+   background-image: -o-linear-gradient(top, #f2f2f2 0, #f5f5f5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f5f5f5', endColorstr='#eeeeee', GradientType=0);
+   background-image: linear-gradient(top, #f2f2f2 0, #f5f5f5 100%);
+   border: 1px solid #dedede;
+   box-shadow: none;
+   -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, .4);
+   margin-top: 5px;
+   overflow: hidden;
+   border-radius: 4px;
+}
+
+.redux-container #redux-header,
+.redux-container #redux-footer {
+   text-align: right;
+   padding: 10px;
+}
+
+.redux-container #redux-footer {
+   border-top: 1px solid #ddd!important;
+   z-index: 9999;
+   box-shadow: none;
+}
+
+.redux-container .notice-yellow {
+   margin: 0;
+   border-bottom: 1px solid #E7E7E7;
+   background-color: #f3f3f3;
+   color: red;
+   padding: 15px 35px 15px 14px;
+   text-shadow: none;
+}
+
+.redux-container #info_bar {
+   background: #f4f4f4;
+   border-bottom: 1px solid #ddd;
+   padding: 7px;
+   text-align: right;
+   -moz-box-shadow: inset 0 1px 0 #fcfcfc;
+   -webkit-box-shadow: inset 0 1px 0 #fcfcfc;
+   box-shadow: inset 0 1px 0 #fcfcfc;
+   height: 34px!important;
+   border-left: 0;
+}
+
+.redux-container .expand_options {
+   cursor: pointer;
+   display: block;
+   height: 22px;
+   width: 21px;
+   float: left;
+   font-size: 0;
+   text-indent: -9999px;
+   display: none;
+   margin: 1px 0 0 5px;
+   border: 1px solid #bbb;
+   -webkit-border-radius: 2px;
+   -moz-border-radius: 2px;
+   border-radius: 2px;
+}
+
+.redux-main .form-table tr {
+   border-bottom: none!important;
+}
+
+.redux-main input {
+   line-height: 27px!important;
+   box-shadow: none!important;
+   border-radius: 4px;
+   background: #fff;
+   box-shadow: none;
+   outline: none;
+}
+
+.redux-main .input-append .add-on,
+.redux-main .input-prepend .add-on {
+   width: auto;
+   display: inline-block;
+   min-width: 16px;
+   padding: 3px 4px;
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 20px;
+   text-align: center;
+   text-shadow: none;
+   background-color: #fff;
+   border: 1px solid #dedede;
+}
+
+.redux-container .redux-main .input-append .add-on,
+.redux-container .redux-main .input-prepend .add-on {
+   width: auto;
+   display: inline-block;
+   min-width: 16px;
+   padding: 7px 4px;
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 27px;
+   text-align: center;
+   text-shadow: none;
+   background-color: #fff;
+   border: 1px solid #dddddd;
+}
+
+.redux-container .redux-main .input-prepend .add-on {
+   line-height: 20px;
+}
+
+.redux-sidebar .redux-group-menu li a {
+   display: block;
+   padding: 15px 4px 15px 14px;
+   background: #e0e0e0;
+   background: 0 0;
+   border-width: 1px 0;
+   border-style: solid;
+   border-bottom-color: #E7E7E7;
+   border-top-color: #F9F9F9;
+   opacity: 1;
+   color: #333;
+   font-weight: 700;
+   text-decoration: none;
+   -webkit-transition: none;
+   transition: none;
+   outline: none;
+   box-shadow: none;
+}
+
+.redux-sidebar .redux-group-menu li a:hover {
+   background: #eaeaea;
+   color: #535A72;
+   opacity: 1;
+}
+
+.redux-sidebar .redux-group-tab-link-a i {
+   vertical-align: middle;
+   font-size: 1em;
+   position: absolute;
+   line-height: 1.4em;
+   color: #535A72;
+}
+
+.admin-color-fresh .redux-container-switch .cb-disable,
+.admin-color-fresh .redux-container-switch .cb-enable,
+.admin-color-fresh .ui-state-default,
+.admin-color-fresh .ui-widget-content .ui-state-default,
+.admin-color-fresh .ui-widget-header .ui-state-default {
+   background-color: #f5f5f5;
+   background-image: -khtml-gradient(linear, left top, left bottom, from(#f8f8f8), to(#f5f5f5));
+   background-image: -moz-linear-gradient(top, #f8f8f8, #f5f5f5);
+   background-image: -ms-linear-gradient(top, #f8f8f8, #f5f5f5);
+   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #f8f8f8), color-stop(100%, #f5f5f5));
+   background-image: -webkit-linear-gradient(top, #f8f8f8, #f5f5f5);
+   background-image: -o-linear-gradient(top, #f8f8f8, #f5f5f5);
+   background-image: linear-gradient(top, #f8f8f8, #f5f5f5);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@from', endColorstr='@to', GradientType=0);
+   border-color: #ddd;
+   box-shadow: none;
+   line-height: 22px;
+   font-weight: 700;
+}
+
+.admin-color-fresh .redux-container-switch .cb-disable.selected {
+   background: #32373c !important;
+   background-image: -khtml-gradient(linear, left top, left bottom, from(#929292), to(#646464));
+   background-image: -moz-linear-gradient(top, #929292, #646464);
+   background-image: -ms-linear-gradient(top, #929292, #646464);
+   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #929292), color-stop(100%, #646464));
+   background-image: -webkit-linear-gradient(top, #929292, #646464);
+   background-image: -o-linear-gradient(top, #929292, #646464);
+   background-image: linear-gradient(top, #929292, #646464);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@from', endColorstr='@to', GradientType=0);
+   border-color: #32373c!important;
+}
+
+#wpbody .redux-container-switch .cb-enable.selected,
+#wpbody .ui-buttonset .ui-state-active {
+   background: #535A72!important;
+   background-image: -khtml-gradient(linear, left top, left bottom, from(#008ec6), to(#0074a2));
+   background-image: -moz-linear-gradient(top, #008ec6, #0074a2);
+   background-image: -ms-linear-gradient(top, #008ec6, #0074a2);
+   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #008ec6), color-stop(100%, #0074a2));
+   background-image: -webkit-linear-gradient(top, #008ec6, #0074a2);
+   background-image: -o-linear-gradient(top, #008ec6, #0074a2);
+   background-image: linear-gradient(top, #008ec6, #0074a2);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@from', endColorstr='@to', GradientType=0);
+   border-color: #535A72!important;
+   border-color: #535A72!important;
+   -webkit-box-shadow: inset 0 1px 0 #00abef, 0 1px 0 rgba(0, 0, 0, .15);
+   box-shadow: none!important;
+}
+
+.redux-main .redux-typography-container .input_wrapper input.mini {
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   -o-box-sizing: border-box;
+   box-sizing: border-box;
+   width: 78%;
+   text-align: center;
+   margin: 0;
+   height: 35px;
+   top: 3px;
+   padding: 0 2px 0 5px;
+   text-decoration: none;
+   -webkit-border-radius: 4px;
+   -moz-border-radius: 4px;
+   border-radius: 4px;
+}
+
+.redux-container .form-table>tbody>tr>th {
+   width: 35%;
+}
+
+.admin-color-fresh #redux-header {
+   background: #535A72;
+   border: none;
+}
+
+.redux-container #redux-header .display_header .redux-dev-mode-notice-container {
+   display: none;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active a,
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild a {
+   color: #222;
+   box-shadow: none;
+   text-shadow: none!important;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections a,
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections a {
+   background: #fff;
+   -webkit-transition: all .2s;
+   -moz-transition: all .2s;
+   transition: all .2s;
+   color: #333;
+   width: auto;
+   border-bottom: 0;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li,
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li {
+   border-top: 0 none !important
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a,
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a {
+   background: #e5e5e5!important;
+   width: auto;
+   border-top: 0 !important;
+   padding: 7px;
+   color: #333;
+   padding-left: 15px;
+   -webkit-transition: all .2;
+   -moz-transition: all .2;
+   -ms-transition: all .2;
+   -o-transition: all .2;
+   transition: all .2;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a,
+.wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a {
+   background: #535A72!important;
+   color: #fff!important;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections .active a:after,
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections .active a:after,
+.wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections .active a:after,
+.wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections .active a:after {
+   display: none;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover,
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover {
+   color: #535A72!important;
+   background: #e5e5e5!important;
+}
+
+.redux-main .wp-picker-container .wp-color-result {
+   outline: 0;
+   margin: 0;
+   box-shadow: none;
+}
+
+.redux-container .wp-picker-container {
+   display: inline-block;
+}
+
+.admin-color-fresh .redux-container-image_select .redux-image-select-selected img,
+.wp-customizer .redux-container-image_select .redux-image-select-selected img {
+   border-color: #535A72!important;
+}

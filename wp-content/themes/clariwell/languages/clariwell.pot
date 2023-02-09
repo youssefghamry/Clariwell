@@ -1,0 +1,776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: clariwell\n"
+"POT-Creation-Date: 2018-12-14 17:32+0530\n"
+"PO-Revision-Date: 2018-12-14 17:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: insignia\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: 404.php\n"
+"X-Poedit-SearchPath-2: archive.php\n"
+"X-Poedit-SearchPath-3: archive-portfolio.php\n"
+"X-Poedit-SearchPath-4: author.php\n"
+"X-Poedit-SearchPath-5: category.php\n"
+"X-Poedit-SearchPath-6: comments.php\n"
+"X-Poedit-SearchPath-7: demo-importer.php\n"
+"X-Poedit-SearchPath-8: footer.php\n"
+"X-Poedit-SearchPath-9: functions.php\n"
+"X-Poedit-SearchPath-10: header.php\n"
+"X-Poedit-SearchPath-11: index.php\n"
+"X-Poedit-SearchPath-12: nav-below.php\n"
+"X-Poedit-SearchPath-13: nav-below-single.php\n"
+"X-Poedit-SearchPath-14: no-header-footer.php\n"
+"X-Poedit-SearchPath-15: page.php\n"
+"X-Poedit-SearchPath-16: page-title.php\n"
+"X-Poedit-SearchPath-17: readme.txt\n"
+"X-Poedit-SearchPath-18: screenshot.jpg\n"
+"X-Poedit-SearchPath-19: search.php\n"
+"X-Poedit-SearchPath-20: sidebar.php\n"
+"X-Poedit-SearchPath-21: single.php\n"
+"X-Poedit-SearchPath-22: single-portfolio.php\n"
+"X-Poedit-SearchPath-23: style.css\n"
+"X-Poedit-SearchPath-24: tag.php\n"
+"X-Poedit-SearchPath-25: taxonomy-portfolio_category.php\n"
+"X-Poedit-SearchPath-26: wpml-config.xml\n"
+
+#: comments.php:46 woocommerce/single-product-reviews.php:74
+msgid "Name*"
+msgstr ""
+
+#: comments.php:48 woocommerce/single-product-reviews.php:76
+msgid "Email*"
+msgstr ""
+
+#: comments.php:51
+msgid "Comment*"
+msgstr ""
+
+#: footer.php:85
+msgid "Back to top"
+msgstr ""
+
+#: footer.php:99
+msgid "Search for..."
+msgstr ""
+
+#: functions.php:388 functions.php:389
+#: functions/woocommerce_configuration.php:29 search.php:49
+msgid "Search"
+msgstr ""
+
+#: functions/general-functions.php:1034 functions/general-functions.php:1056
+msgid "Portfolio Image"
+msgstr ""
+
+#: functions/general-functions.php:1110
+msgid "Dribbble"
+msgstr ""
+
+#: functions/general-functions.php:1113
+msgid "Facebook"
+msgstr ""
+
+#: functions/general-functions.php:1116
+msgid "Foursquare"
+msgstr ""
+
+#: functions/general-functions.php:1119
+msgid "Flickr"
+msgstr ""
+
+#: functions/general-functions.php:1122
+msgid "Github"
+msgstr ""
+
+#: functions/general-functions.php:1125
+msgid "Google+"
+msgstr ""
+
+#: functions/general-functions.php:1128
+msgid "Instagram"
+msgstr ""
+
+#: functions/general-functions.php:1131
+msgid "LinkedIn"
+msgstr ""
+
+#: functions/general-functions.php:1134
+msgid "Pinterest"
+msgstr ""
+
+#: functions/general-functions.php:1137
+msgid "Renren"
+msgstr ""
+
+#: functions/general-functions.php:1140
+msgid "RSS"
+msgstr ""
+
+#: functions/general-functions.php:1143
+msgid "Skype"
+msgstr ""
+
+#: functions/general-functions.php:1146
+msgid "Soundcloud"
+msgstr ""
+
+#: functions/general-functions.php:1149
+msgid "Stack Overflow"
+msgstr ""
+
+#: functions/general-functions.php:1152
+msgid "Twitter"
+msgstr ""
+
+#: functions/general-functions.php:1155
+msgid "Tumblr"
+msgstr ""
+
+#: functions/general-functions.php:1158
+msgid "Vimeo"
+msgstr ""
+
+#: functions/general-functions.php:1161
+msgid "VK"
+msgstr ""
+
+#: functions/general-functions.php:1164
+msgid "Weibo"
+msgstr ""
+
+#: functions/general-functions.php:1167
+msgid "Xing"
+msgstr ""
+
+#: functions/general-functions.php:1170
+msgid "YouTube"
+msgstr ""
+
+#: functions/header-functions.php:39 functions/header-functions.php:41
+#: functions/header-functions.php:44 functions/header-functions.php:664
+msgid "logo"
+msgstr ""
+
+#: functions/ins-comments.php:19
+#, php-format
+msgid "<div class=\"fn title-h6\">%s</div>"
+msgstr ""
+
+#: functions/woocommerce_configuration.php:28
+msgid "Search Products"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/templates/portfolio/archive/portfolio-masonry-content.php:43
+#: inc/templates/portfolio/archive/portfolio-masonry-content.php:64
+msgid "portfolio-thumb"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:35
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:36
+msgid "Sample Options"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:147
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:149
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:153
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:168
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:197
+msgid "Theme Information 1"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:169
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:174
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:198
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:203
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:173
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:202
+msgid "Theme Information 2"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:180
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:209
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:204
+msgid "Basic Field"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:206
+msgid "Basic field with no subsections."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:212
+msgid "Example Text"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:213
+msgid "Example description."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:214
+msgid "Example subtitle."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:223
+msgid "Basic Fields"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:225
+msgid "Basic fields as subsections."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:230
+msgid "Text"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:231
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:248
+msgid "For full documentation on this field, visit: "
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:238
+msgid "Text Field"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:239
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:256
+msgid "Subtitle"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:240
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:257
+msgid "Field Description"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:247
+msgid "Text Area"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/barebones-config.php:255
+msgid "Text Area Field"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:53
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:54
+msgid "Theme Options"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:151
+msgid "Documentation"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:157
+msgid "Support"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:163
+msgid "Extensions"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:175
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:177
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:181
+msgid "<p></p>"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:235
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:464
+msgid "General"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:242
+msgid "Default Page Layout"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:295
+msgid "Back to top button"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:475
+msgid "Primary color"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:476
+msgid "Pick a Primary color for the theme."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:488
+msgid "Secondary color"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:489
+msgid "Pick a Secondary color for the theme."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:509
+msgid "Body Background"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:510
+msgid "Pick Body background color."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:520
+msgid "Links"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:526
+msgid "Link Color"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:539
+msgid "Sidebar Widget Styling"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:545
+msgid "Widget title typography"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:546
+msgid "Specify the Widget title properties."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:569
+msgid "Sidebar Widget Link Color"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:638
+msgid "Typography"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:645
+msgid "text"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:646
+msgid "Specify the body font properties."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:665
+msgid "Title Font-Family"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:666
+msgid "Specify the title font family"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:690
+msgid "h1"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:691
+msgid "Specify the h1 tag title font properties."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:711
+msgid "h2"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:712
+msgid "Specify the h2 tag title font properties."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:732
+msgid "h3"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:733
+msgid "Specify the h3 tag title font properties."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:753
+msgid "h4"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:754
+msgid "Specify the h4 tag font properties."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:775
+msgid "h5"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:776
+msgid "Specify the h5 tag font properties."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:796
+msgid "h6"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:797
+msgid "Specify the h6 Tag font properties."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:1071
+msgid "Header background color"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:1072
+msgid "Background color of your site header."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:1144
+msgid "Header Initial Height"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:1145
+msgid "Height of the header in initial state, in pixels."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:1168
+msgid "Header Scroll Height"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:1169
+msgid "Height of the header after scroll, in pixels."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:1197
+msgid "Menu titles Typography"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:1198
+msgid "Specify the Menu titles font properties."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:1319
+msgid "Header Separator"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:1320
+msgid "Choose a default header Separator i.e. Shadow below header"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:1380
+msgid "Enable Side Area"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:2071
+msgid "Social Media"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:2447
+msgid "Blog Options"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:2589
+msgid "WooCommerce"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:2875
+msgid "Footer"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:3022
+msgid "Sub Footer Background Color"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:3033
+msgid "Copyright Text Color"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:3041
+msgid "Copyright Link Color"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:3085
+msgid "Contact options"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:3112
+msgid "Google Maps API Key"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:3113
+msgid ""
+"Paste your Google Maps Api Key. This is necessary for the Google Map to work "
+"on your website."
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:3240
+msgid "Section via hook"
+msgstr ""
+
+#: insigniathemeoptions/insigniacustomoptions/insignia-config.php:3241
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: nav-below.php:3
+#, php-format
+msgid "%s older"
+msgstr ""
+
+#: nav-below.php:4
+#, php-format
+msgid "newer %s"
+msgstr ""
+
+#: search.php:30
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: search.php:48
+msgid "Search for"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:12
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tabs.php:45
+msgid "Previous tab"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:45
+msgid "Next tab"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:99
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:102
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:55 woocommerce/cart/mini-cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:73
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:93
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:99
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:117 woocommerce/myaccount/my-orders.php:28
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:142
+msgid "update cart"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:48
+#: woocommerce/cart/shipping-calculator.php:54
+#: woocommerce/cart/shipping-calculator.php:66
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:55
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:75
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:83
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:26
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:28
+#: woocommerce/myaccount/my-address.php:34
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:29
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:32
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:44
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:54
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:73
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:27
+msgid "Status"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:42
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:92
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:33
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:33
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr ""

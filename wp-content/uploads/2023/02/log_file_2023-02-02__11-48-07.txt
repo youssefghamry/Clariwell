@@ -1,0 +1,30 @@
+
+---Downloaded files---
+The import files for: Inner-Pages were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress/Clariwell
+Data file = C:\xampp\htdocs\wordpress\Clariwell/wp-content/themes/clariwell/demos/inner-pages/inner-pages.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/after_import---
+

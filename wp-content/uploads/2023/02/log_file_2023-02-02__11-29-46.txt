@@ -1,0 +1,63 @@
+
+---Downloaded files---
+The import files for: Home-1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress/Clariwell
+Data file = C:\xampp\htdocs\wordpress\Clariwell/wp-content/themes/clariwell/demos/home-1/home-1.xml
+Widget file = C:\xampp\htdocs\wordpress\Clariwell/wp-content/themes/clariwell/demos/home-1/home-1.wie
+Customizer file = not defined!
+Redux files:
+ins_opt -> C:\xampp\htdocs\wordpress\Clariwell/wp-content/themes/clariwell/demos/home-1/home-1.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Footer column 1 : 
+
+Text - About Clariwell - Imported
+
+Footer column 2 : 
+
+Navigation Menu - Services - Imported
+
+Footer column 3 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer column 4 : 
+
+Text - Head Office - Imported
+Custom HTML - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: ins_opt finished successfully!
+
+---ocdi/after_import---
+

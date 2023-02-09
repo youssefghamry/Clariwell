@@ -1,0 +1,5488 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: clariwell plugin\n"
+"POT-Creation-Date: 2019-03-06 12:48+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: insignia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_attr_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: cmb-functions.php\n"
+"X-Poedit-SearchPath-2: index.php\n"
+"X-Poedit-SearchPath-3: insignia-custom-post-type.php\n"
+"X-Poedit-SearchPath-4: insignia-iconpicker-iconsmind.php\n"
+"X-Poedit-SearchPath-5: script.php\n"
+
+#: clariwell-widgets/contact.php:13
+msgid "Insignia Contact"
+msgstr ""
+
+#: clariwell-widgets/contact.php:16
+msgid "A widget that displays your Contact Informations"
+msgstr ""
+
+#: clariwell-widgets/contact.php:35 vc_template/VC_google-map.php:181
+msgid "Phone"
+msgstr ""
+
+#: clariwell-widgets/contact.php:39
+msgid "Fax"
+msgstr ""
+
+#: clariwell-widgets/contact.php:43
+msgid "E-Mail"
+msgstr ""
+
+#: clariwell-widgets/contact.php:47
+msgid "Web"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:22
+msgid "Instagram Widget"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:25
+msgid "A widget that displays latest Instagram posts"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:84
+msgid "Instagram"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:91
+msgid "3054236984"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:98
+msgid "3054236984.1654d0c.0c7a5e5ba2ef455c9855243da1c6a281"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:104
+#: clariwell-widgets/custom_widgets.php:273
+#: clariwell-widgets/recent-post-widget.php:109
+msgid "Title:"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:109
+msgid "UserID:"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:115
+#: clariwell-widgets/custom_widgets.php:291
+msgid "Access Token:"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:149
+msgid "A widget that displays latest Tweets"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:150
+msgid "Tweets"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:271
+#, php-format
+msgid "<a href=\"%s\">Find or Create your Twitter App</a>"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:278
+msgid "Consumer Key:"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:285
+msgid "Consumer Secret:"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:297
+msgid "Access Token Secret:"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:304
+msgid "Twitter ID:"
+msgstr ""
+
+#: clariwell-widgets/custom_widgets.php:310
+msgid "Number of Tweets:"
+msgstr ""
+
+#: clariwell-widgets/recent-post-widget.php:18
+msgid "Insignia Recent Post"
+msgstr ""
+
+#: clariwell-widgets/recent-post-widget.php:21
+msgid "A widget that displays your most recent posts"
+msgstr ""
+
+#: clariwell-widgets/recent-post-widget.php:46
+msgid "Recent Posts"
+msgstr ""
+
+#: clariwell-widgets/recent-post-widget.php:112
+msgid "Number of posts to show:"
+msgstr ""
+
+#: clariwell-widgets/recent-post-widget.php:116
+msgid "Display post date?"
+msgstr ""
+
+#: cmb-functions.php:26
+msgid "Blog Post"
+msgstr ""
+
+#: cmb-functions.php:34
+msgid "Post Media"
+msgstr ""
+
+#: cmb-functions.php:38 cmb-functions.php:50 cmb-functions.php:62
+#: cmb-functions.php:198 cmb-functions.php:332 cmb-functions.php:361
+#: cmb-functions.php:373 cmb-functions.php:385 cmb-functions.php:430
+#: cmb-functions.php:442 cmb-functions.php:454 cmb-functions.php:466
+#: cmb-functions.php:527 cmb-functions.php:539 cmb2/includes/CMB2_JS.php:144
+#: vc_template/VC_Message-box.php:66 vc_template/VC_Pricing-box.php:26
+msgid "Default"
+msgstr ""
+
+#: cmb-functions.php:39 cmb-functions.php:51 cmb-functions.php:63
+msgid "Hide"
+msgstr ""
+
+#: cmb-functions.php:41
+msgid ""
+"Display post media on single post page according to post format i.e. video "
+"player for \"video\" format etc."
+msgstr ""
+
+#: cmb-functions.php:46
+msgid "Blog Category Section"
+msgstr ""
+
+#: cmb-functions.php:53
+msgid "Display the blog post category section on top of the post title."
+msgstr ""
+
+#: cmb-functions.php:58
+msgid "Blog Meta Section"
+msgstr ""
+
+#: cmb-functions.php:65
+msgid "Display the blog post meta section under the post title."
+msgstr ""
+
+#: cmb-functions.php:77 cmb-functions.php:127
+msgid "General"
+msgstr ""
+
+#: cmb-functions.php:84
+msgid "Page Layout"
+msgstr ""
+
+#: cmb-functions.php:89 vc_template/VC_counter.php:101
+msgid "Select Layout"
+msgstr ""
+
+#: cmb-functions.php:90
+msgid "Full width"
+msgstr ""
+
+#: cmb-functions.php:91
+msgid "Left sidebar"
+msgstr ""
+
+#: cmb-functions.php:92
+msgid "Right sidebar"
+msgstr ""
+
+#: cmb-functions.php:94
+msgid "Choose a layout for this page."
+msgstr ""
+
+#: cmb-functions.php:98 cmb-functions.php:134
+msgid "Page Top Padding"
+msgstr ""
+
+#: cmb-functions.php:101 cmb-functions.php:137
+msgid ""
+"Set a top (between Title Area and Content) padding. In pixels. Add Numeric "
+"value only, Do not add \"px\"."
+msgstr ""
+
+#: cmb-functions.php:105 cmb-functions.php:141
+msgid "Page Bottom Padding"
+msgstr ""
+
+#: cmb-functions.php:108 cmb-functions.php:144
+msgid ""
+"Set a bottom (between Content and Footer) padding. In pixels. Add Numeric "
+"value only, Do not add \"px\"."
+msgstr ""
+
+#: cmb-functions.php:112 cmb-functions.php:148
+msgid "#Wrapper Classes"
+msgstr ""
+
+#: cmb-functions.php:115 cmb-functions.php:151
+msgid ""
+"Type CSS classes that will be added to the website's main container "
+"#wrapper. You may add as many classes as you want, just separate them with a "
+"space. You may later easily select them in your CSS code, like .myclass"
+msgstr ""
+
+#: cmb-functions.php:163
+msgid "Page Title Area"
+msgstr ""
+
+#: cmb-functions.php:170
+msgid "Page Title"
+msgstr ""
+
+#: cmb-functions.php:174 cmb-functions.php:333
+msgid "Enable"
+msgstr ""
+
+#: cmb-functions.php:175 cmb-functions.php:334 cmb-functions.php:397
+#: vc_template/VC_section-heading.php:74
+msgid "Disable"
+msgstr ""
+
+#: cmb-functions.php:180
+msgid "Custom Title Text"
+msgstr ""
+
+#: cmb-functions.php:183
+msgid "Type a different page title. Leave blank for default."
+msgstr ""
+
+#: cmb-functions.php:187
+msgid "Page Subtitle"
+msgstr ""
+
+#: cmb-functions.php:190
+msgid "Optional page subtitle."
+msgstr ""
+
+#: cmb-functions.php:194
+msgid "Text Align"
+msgstr ""
+
+#: cmb-functions.php:199 vc_template/VC_Pricing-box.php:141
+#: vc_template/VC_blockquotes.php:86 vc_template/VC_call-to-action.php:61
+#: vc_template/VC_flip-box.php:199 vc_template/VC_section-heading.php:47
+#: vc_template/VC_social-icons.php:82
+msgid "Center"
+msgstr ""
+
+#: cmb-functions.php:200 vc_template/VC_Pricing-box.php:140
+#: vc_template/VC_blockquotes.php:85 vc_template/VC_call-to-action.php:60
+#: vc_template/VC_flip-box.php:197 vc_template/VC_section-heading.php:46
+#: vc_template/VC_social-icons.php:81
+msgid "Left"
+msgstr ""
+
+#: cmb-functions.php:201 vc_template/VC_Pricing-box.php:142
+#: vc_template/VC_blockquotes.php:87 vc_template/VC_flip-box.php:198
+#: vc_template/VC_section-heading.php:48 vc_template/VC_social-icons.php:83
+msgid "Right"
+msgstr ""
+
+#: cmb-functions.php:206 vc_template/VC_image-box.php:264
+msgid "Title Color"
+msgstr ""
+
+#: cmb-functions.php:209
+msgid "Custom color of the page title heading. Leave blank for default."
+msgstr ""
+
+#: cmb-functions.php:213 vc_template/VC_section-heading.php:350
+msgid "Subtitle Color"
+msgstr ""
+
+#: cmb-functions.php:216
+msgid "Custom color of the page subtitle. Leave blank for default."
+msgstr ""
+
+#: cmb-functions.php:220
+msgid "Page Title Height"
+msgstr ""
+
+#: cmb-functions.php:223
+msgid ""
+"Enter height of page header. Enter Number without unit for example \"300\"."
+msgstr ""
+
+#: cmb-functions.php:227 vc_template/VC_flip-box.php:28
+msgid "Background Image"
+msgstr ""
+
+#: cmb-functions.php:233 vc_template/VC_Button.php:467
+#: vc_template/VC_Message-box.php:63 vc_template/VC_blockquotes.php:115
+#: vc_template/VC_toggle.php:501
+msgid "Background Color"
+msgstr ""
+
+#: cmb-functions.php:239 vc_template/VC_flip-box.php:36
+msgid "Background Image Overlay"
+msgstr ""
+
+#: cmb-functions.php:244 cmb2/includes/CMB2_Field.php:1260
+#: cmb2/includes/CMB2_Field.php:1264 vc_template/VC_Message-box.php:68
+#: vc_template/VC_Message-box.php:92 vc_template/VC_flip-box.php:39
+#: vc_template/VC_flip-box.php:158 vc_template/VC_section-heading.php:233
+#: vc_template/VC_social-icons.php:69
+msgid "None"
+msgstr ""
+
+#: cmb-functions.php:245 vc_template/VC_flip-box.php:42
+#: vc_template/VC_flip-box.php:161
+msgid "Dark 30%"
+msgstr ""
+
+#: cmb-functions.php:246 vc_template/VC_flip-box.php:44
+#: vc_template/VC_flip-box.php:163
+msgid "Dark 50%"
+msgstr ""
+
+#: cmb-functions.php:247 vc_template/VC_flip-box.php:46
+#: vc_template/VC_flip-box.php:165
+msgid "Dark 70%"
+msgstr ""
+
+#: cmb-functions.php:248 vc_template/VC_flip-box.php:47
+#: vc_template/VC_flip-box.php:166
+msgid "Dark 80%"
+msgstr ""
+
+#: cmb-functions.php:249 vc_template/VC_flip-box.php:48
+#: vc_template/VC_flip-box.php:167
+msgid "Dark 90%"
+msgstr ""
+
+#: cmb-functions.php:250
+msgid "Light 30%"
+msgstr ""
+
+#: cmb-functions.php:251
+msgid "Light 50%"
+msgstr ""
+
+#: cmb-functions.php:252
+msgid "Light 70%"
+msgstr ""
+
+#: cmb-functions.php:253 vc_template/VC_flip-box.php:52
+#: vc_template/VC_flip-box.php:171
+msgid "Light 80%"
+msgstr ""
+
+#: cmb-functions.php:254
+msgid "Light 90%"
+msgstr ""
+
+#: cmb-functions.php:256
+msgid "Choose an overlay for your background image."
+msgstr ""
+
+#: cmb-functions.php:260
+msgid "Background size"
+msgstr ""
+
+#: cmb-functions.php:265
+msgid "initial"
+msgstr ""
+
+#: cmb-functions.php:266 cmb-functions.php:310
+msgid "inherit"
+msgstr ""
+
+#: cmb-functions.php:267
+msgid "contain"
+msgstr ""
+
+#: cmb-functions.php:268
+msgid "cover"
+msgstr ""
+
+#: cmb-functions.php:273
+msgid "Background Position"
+msgstr ""
+
+#: cmb-functions.php:278
+msgid "left top"
+msgstr ""
+
+#: cmb-functions.php:279
+msgid "left center"
+msgstr ""
+
+#: cmb-functions.php:280
+msgid "left bottom"
+msgstr ""
+
+#: cmb-functions.php:281
+msgid "right top"
+msgstr ""
+
+#: cmb-functions.php:282
+msgid "right center"
+msgstr ""
+
+#: cmb-functions.php:283
+msgid "right bottom"
+msgstr ""
+
+#: cmb-functions.php:284
+msgid "center top"
+msgstr ""
+
+#: cmb-functions.php:285
+msgid "center center"
+msgstr ""
+
+#: cmb-functions.php:286
+msgid "center bottom"
+msgstr ""
+
+#: cmb-functions.php:291
+msgid "Background Repeat"
+msgstr ""
+
+#: cmb-functions.php:296
+msgid "Inherit"
+msgstr ""
+
+#: cmb-functions.php:297
+msgid "No Repeat"
+msgstr ""
+
+#: cmb-functions.php:298
+msgid "Repeat All"
+msgstr ""
+
+#: cmb-functions.php:299
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: cmb-functions.php:300
+msgid "Repeat Vertically"
+msgstr ""
+
+#: cmb-functions.php:305
+msgid "Background Attachment"
+msgstr ""
+
+#: cmb-functions.php:311
+msgid "fixed"
+msgstr ""
+
+#: cmb-functions.php:312
+msgid "scroll"
+msgstr ""
+
+#: cmb-functions.php:317
+msgid "Fullscreen Page Title"
+msgstr ""
+
+#: cmb-functions.php:321 vc_template/VC_Message-box.php:79
+msgid "On"
+msgstr ""
+
+#: cmb-functions.php:322 vc_template/VC_Message-box.php:80
+msgid "Off"
+msgstr ""
+
+#: cmb-functions.php:324
+msgid "Choose size of your Page Title Area."
+msgstr ""
+
+#: cmb-functions.php:328
+msgid "Breadcrumbs"
+msgstr ""
+
+#: cmb-functions.php:336
+msgid "Enable or disable the breadcrumbs navigation."
+msgstr ""
+
+#: cmb-functions.php:350
+msgid "Portfolio Settings"
+msgstr ""
+
+#: cmb-functions.php:357 vc_template/VC_Portfolio.php:40
+msgid "Portfolio Layout"
+msgstr ""
+
+#: cmb-functions.php:362
+msgid "Side"
+msgstr ""
+
+#: cmb-functions.php:363
+msgid "Fullwidth"
+msgstr ""
+
+#: cmb-functions.php:365
+msgid "Choose layout for your portfolio post."
+msgstr ""
+
+#: cmb-functions.php:369
+msgid "Show About Project Heading"
+msgstr ""
+
+#: cmb-functions.php:374 cmb-functions.php:386 cmb-functions.php:443
+#: cmb-functions.php:455 cmb-functions.php:467 cmb-functions.php:528
+#: cmb-functions.php:540 vc_template/VC_News-Blog.php:201
+#: vc_template/VC_News-Blog.php:213 vc_template/VC_Pricing-box.php:104
+#: vc_template/VC_clients-logos.php:68 vc_template/VC_flip-box.php:209
+#: vc_template/VC_flip-box.php:241 vc_template/VC_google-map.php:65
+#: vc_template/VC_video_lightbox.php:76
+msgid "Yes"
+msgstr ""
+
+#: cmb-functions.php:375
+msgid "no"
+msgstr ""
+
+#: cmb-functions.php:377
+msgid "Display or hide the \"About Project\" heading above the Post Content."
+msgstr ""
+
+#: cmb-functions.php:381
+msgid "Show Media"
+msgstr ""
+
+#: cmb-functions.php:387 cmb-functions.php:444 cmb-functions.php:456
+#: cmb-functions.php:468 cmb-functions.php:529 cmb-functions.php:541
+#: vc_template/VC_clients-logos.php:67 vc_template/VC_google-map.php:64
+#: vc_template/VC_video_lightbox.php:77
+msgid "No"
+msgstr ""
+
+#: cmb-functions.php:389
+msgid ""
+"Display or hide the portfolio post media(Featured Image, Video, Image "
+"Gallery)."
+msgstr ""
+
+#: cmb-functions.php:393
+msgid "Video Media"
+msgstr ""
+
+#: cmb-functions.php:398
+msgid "oEmbed (YouTube etc)"
+msgstr ""
+
+#: cmb-functions.php:399
+msgid "Self Hosted"
+msgstr ""
+
+#: cmb-functions.php:401
+msgid "Display video in your portfolio post."
+msgstr ""
+
+#: cmb-functions.php:405
+msgid "Self Hosted Video"
+msgstr ""
+
+#: cmb-functions.php:408
+msgid "Choose a video file from your library or insert URL."
+msgstr ""
+
+#: cmb-functions.php:412
+msgid "Video URL"
+msgstr ""
+
+#: cmb-functions.php:415
+msgid "Insert URL to your video from YouTube, Vimeo etc."
+msgstr ""
+
+#: cmb-functions.php:419 vc_template/VC_Image-Gallery.php:17
+msgid "Image Gallery"
+msgstr ""
+
+#: cmb-functions.php:422
+msgid "Add images to your post's gallery."
+msgstr ""
+
+#: cmb-functions.php:426
+msgid "Gallery Type"
+msgstr ""
+
+#: cmb-functions.php:431
+msgid "Image List"
+msgstr ""
+
+#: cmb-functions.php:432
+msgid "Image Slider"
+msgstr ""
+
+#: cmb-functions.php:434
+msgid ""
+"Choose a type for your gallery: image slider or list with images displayed "
+"one under another."
+msgstr ""
+
+#: cmb-functions.php:438
+msgid "Show Project Details"
+msgstr ""
+
+#: cmb-functions.php:446
+msgid "Display or hide the project details."
+msgstr ""
+
+#: cmb-functions.php:450
+msgid "Project Details Heading"
+msgstr ""
+
+#: cmb-functions.php:458
+msgid ""
+"Display or hide the \"Project Details\" heading above the Post Details area."
+msgstr ""
+
+#: cmb-functions.php:462
+msgid "Display Project Categories"
+msgstr ""
+
+#: cmb-functions.php:470
+msgid "Display project categories."
+msgstr ""
+
+#: cmb-functions.php:474
+msgid "Research Name"
+msgstr ""
+
+#: cmb-functions.php:477
+msgid "Insert research name. (Optional)"
+msgstr ""
+
+#: cmb-functions.php:481
+msgid "Project Client"
+msgstr ""
+
+#: cmb-functions.php:484
+msgid "Insert your project client. (Optional)"
+msgstr ""
+
+#: cmb-functions.php:488
+msgid "Project Client URL"
+msgstr ""
+
+#: cmb-functions.php:491
+msgid "Insert client's site URL. (Optional)"
+msgstr ""
+
+#: cmb-functions.php:495
+msgid "Research Year"
+msgstr ""
+
+#: cmb-functions.php:498
+msgid "Inseart year for your research."
+msgstr ""
+
+#: cmb-functions.php:502
+msgid "Research Location"
+msgstr ""
+
+#: cmb-functions.php:505
+msgid "Insert research's location. (Optional)"
+msgstr ""
+
+#: cmb-functions.php:509
+msgid "Extra Field Label"
+msgstr ""
+
+#: cmb-functions.php:512
+msgid "Additional field displayed in your Project Details area."
+msgstr ""
+
+#: cmb-functions.php:516
+msgid "Extra Field Value"
+msgstr ""
+
+#: cmb-functions.php:519
+msgid "Additional field value."
+msgstr ""
+
+#: cmb-functions.php:523
+msgid "Social Sharing Buttons"
+msgstr ""
+
+#: cmb-functions.php:531
+msgid "Display Social sharing buttons."
+msgstr ""
+
+#: cmb-functions.php:535
+msgid "Post Navigation"
+msgstr ""
+
+#: cmb-functions.php:543
+msgid "Display post navigation."
+msgstr ""
+
+#: cmb-functions.php:556
+msgid "Testimonial Options"
+msgstr ""
+
+#: cmb-functions.php:563 vc_template/VC_News-Blog.php:316
+#: vc_template/VC_Portfolio.php:276 vc_template/VC_testimonial.php:176
+msgid "Author"
+msgstr ""
+
+#: cmb-functions.php:569 vc_template/VC_team.php:30
+msgid "Position"
+msgstr ""
+
+#: cmb-functions.php:583
+msgid "Post Video"
+msgstr ""
+
+#: cmb-functions.php:590
+msgid "YouTube video ID"
+msgstr ""
+
+#: cmb-functions.php:596
+msgid "Vimeo video ID"
+msgstr ""
+
+#: cmb-functions.php:602
+msgid "Self hosted video file in mp4 format"
+msgstr ""
+
+#: cmb-functions.php:608
+msgid "Self hosted video file in webM format"
+msgstr ""
+
+#: cmb-functions.php:623
+msgid "Post Audio"
+msgstr ""
+
+#: cmb-functions.php:631
+msgid "Self hosted audio file in mp3 format"
+msgstr ""
+
+#: cmb-functions.php:645
+msgid "Post Quote"
+msgstr ""
+
+#: cmb-functions.php:652
+msgid "Quote Text"
+msgstr ""
+
+#: cmb-functions.php:658
+msgid "Quote author name"
+msgstr ""
+
+#: cmb-functions.php:664 vc_template/VC_call-to-action.php:184
+#: vc_template/VC_flip-box.php:184
+msgid "Background color"
+msgstr ""
+
+#: cmb-functions.php:671
+msgid "Quote text color"
+msgstr ""
+
+#: cmb-functions.php:686
+msgid "Post Gallery"
+msgstr ""
+
+#: cmb-functions.php:693
+msgid "Upload Image Gallery"
+msgstr ""
+
+#: cmb2/includes/CMB2.php:178
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#: cmb2/includes/CMB2_Ajax.php:189 cmb2/includes/helper-functions.php:105
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: cmb2/includes/CMB2_Base.php:422
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%1$s\" "
+"parameter."
+msgstr ""
+
+#: cmb2/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%1$s\" parameter."
+msgstr ""
+
+#: cmb2/includes/CMB2_Base.php:456
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: cmb2/includes/CMB2_Base.php:458
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: cmb2/includes/CMB2_Base.php:491 cmb2/includes/CMB2_Hookup_Base.php:100
+#: cmb2/includes/CMB2_Options_Hookup.php:336
+#: cmb2/includes/types/CMB2_Type_Base.php:149
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: cmb2/includes/CMB2_Base.php:506 cmb2/includes/types/CMB2_Type_Base.php:133
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:1228
+msgid "Add Group"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:1229
+msgid "Remove Group"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:1375
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: cmb2/includes/CMB2_Field_Display.php:432 cmb2/includes/CMB2_JS.php:204
+#: cmb2/includes/types/CMB2_Type_File_Base.php:79
+msgid "File:"
+msgstr ""
+
+#: cmb2/includes/CMB2_Hookup_Base.php:42
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:143 cmb2/includes/CMB2_JS.php:184
+msgid "Clear"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:145
+msgid "Select Color"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:146
+msgid "Current Color"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:175
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:176
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:177
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:178
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:179
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:180
+msgid "Next"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:181
+msgid "Prev"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:182
+msgid "Today"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:183 cmb2/includes/CMB2_JS.php:193
+msgid "Done"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:187
+msgid "Choose Time"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:188
+msgid "Time"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:189
+msgid "Hour"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:190
+msgid "Minute"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:191
+msgid "Second"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:192
+msgid "Now"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:200
+msgid "Use this file"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:201
+msgid "Use these files"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:202 cmb2/includes/types/CMB2_Type_File_Base.php:64
+msgid "Remove Image"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:203 cmb2/includes/CMB2_Types.php:412
+#: cmb2/includes/types/CMB2_Type_File_Base.php:84
+msgid "Remove"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:205 cmb2/includes/types/CMB2_Type_File_Base.php:82
+msgid "Download"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:206
+msgid "Select / Deselect All"
+msgstr ""
+
+#: cmb2/includes/CMB2_Options_Hookup.php:126
+msgid "Nothing to update."
+msgstr ""
+
+#: cmb2/includes/CMB2_Options_Hookup.php:130
+msgid "Settings updated."
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:231
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:349
+msgid "Add Row"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:412
+msgid "Remove Row"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:181
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:185
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:458
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: cmb2/includes/helper-functions.php:303
+msgid "Save"
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: cmb2/includes/shim/WP_REST_Controller.php:35
+#: cmb2/includes/shim/WP_REST_Controller.php:47
+#: cmb2/includes/shim/WP_REST_Controller.php:59
+#: cmb2/includes/shim/WP_REST_Controller.php:71
+#: cmb2/includes/shim/WP_REST_Controller.php:83
+#: cmb2/includes/shim/WP_REST_Controller.php:95
+#: cmb2/includes/shim/WP_REST_Controller.php:107
+#: cmb2/includes/shim/WP_REST_Controller.php:119
+#: cmb2/includes/shim/WP_REST_Controller.php:131
+#: cmb2/includes/shim/WP_REST_Controller.php:143
+#: cmb2/includes/shim/WP_REST_Controller.php:155
+#: cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: cmb2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:100
+msgid "No terms"
+msgstr ""
+
+#: index.php:158
+msgid "wand"
+msgstr ""
+
+#: index.php:159
+msgid "volume"
+msgstr ""
+
+#: index.php:160
+msgid "user"
+msgstr ""
+
+#: index.php:161
+msgid "unlock"
+msgstr ""
+
+#: index.php:162
+msgid "unlink"
+msgstr ""
+
+#: index.php:163
+msgid "trash"
+msgstr ""
+
+#: index.php:164
+msgid "thought"
+msgstr ""
+
+#: index.php:165
+msgid "target"
+msgstr ""
+
+#: index.php:166
+msgid "tag"
+msgstr ""
+
+#: index.php:167
+msgid "tablet"
+msgstr ""
+
+#: index.php:168
+msgid "star"
+msgstr ""
+
+#: index.php:169
+msgid "spray"
+msgstr ""
+
+#: index.php:170
+msgid "signal"
+msgstr ""
+
+#: index.php:171
+msgid "shopping-cart"
+msgstr ""
+
+#: index.php:172
+msgid "shopping-cart-full"
+msgstr ""
+
+#: index.php:173
+msgid "settings"
+msgstr ""
+
+#: index.php:174
+msgid "search"
+msgstr ""
+
+#: index.php:175
+msgid "zoom-in"
+msgstr ""
+
+#: index.php:176
+msgid "zoom-out"
+msgstr ""
+
+#: index.php:177
+msgid "cut"
+msgstr ""
+
+#: index.php:178
+msgid "ruler"
+msgstr ""
+
+#: index.php:179
+msgid "ruler-pencil"
+msgstr ""
+
+#: index.php:180
+msgid "ruler-alt"
+msgstr ""
+
+#: index.php:181
+msgid "bookmark"
+msgstr ""
+
+#: index.php:182
+msgid "bookmark-alt"
+msgstr ""
+
+#: index.php:183
+msgid "reload"
+msgstr ""
+
+#: index.php:184
+msgid "plus"
+msgstr ""
+
+#: index.php:185
+msgid "pin"
+msgstr ""
+
+#: index.php:186
+msgid "pencil"
+msgstr ""
+
+#: index.php:187
+msgid "pencil-alt"
+msgstr ""
+
+#: index.php:188
+msgid "paint-roller"
+msgstr ""
+
+#: index.php:189
+msgid "paint-bucket"
+msgstr ""
+
+#: index.php:190
+msgid "na"
+msgstr ""
+
+#: index.php:191
+msgid "mobile"
+msgstr ""
+
+#: index.php:192
+msgid "minus"
+msgstr ""
+
+#: index.php:193
+msgid "medall"
+msgstr ""
+
+#: index.php:194
+msgid "medall-alt"
+msgstr ""
+
+#: index.php:195
+msgid "marker"
+msgstr ""
+
+#: index.php:196
+msgid "marker-alt"
+msgstr ""
+
+#: index.php:197
+msgid "arrow-up"
+msgstr ""
+
+#: index.php:198
+msgid "arrow-right"
+msgstr ""
+
+#: index.php:199
+msgid "arrow-left"
+msgstr ""
+
+#: index.php:200
+msgid "arrow-down"
+msgstr ""
+
+#: index.php:201
+msgid "lock"
+msgstr ""
+
+#: index.php:202
+msgid "location-arrow"
+msgstr ""
+
+#: index.php:203
+msgid "link"
+msgstr ""
+
+#: index.php:204
+msgid "layout"
+msgstr ""
+
+#: index.php:205
+msgid "layers"
+msgstr ""
+
+#: index.php:206
+msgid "layers-alt"
+msgstr ""
+
+#: index.php:207
+msgid "key"
+msgstr ""
+
+#: index.php:208
+msgid "import"
+msgstr ""
+
+#: index.php:209
+msgid "image"
+msgstr ""
+
+#: index.php:210
+msgid "heart"
+msgstr ""
+
+#: index.php:211
+msgid "heart-broken"
+msgstr ""
+
+#: index.php:212
+msgid "hand-stop"
+msgstr ""
+
+#: index.php:213
+msgid "hand-open"
+msgstr ""
+
+#: index.php:214
+msgid "hand-drag"
+msgstr ""
+
+#: index.php:215
+msgid "folder"
+msgstr ""
+
+#: index.php:216
+msgid "flag"
+msgstr ""
+
+#: index.php:217
+msgid "flag-alt"
+msgstr ""
+
+#: index.php:218
+msgid "flag-alt-2"
+msgstr ""
+
+#: index.php:219
+msgid "eye"
+msgstr ""
+
+#: index.php:220
+msgid "export"
+msgstr ""
+
+#: index.php:221
+msgid "exchange-vertical"
+msgstr ""
+
+#: index.php:222
+msgid "desktop"
+msgstr ""
+
+#: index.php:223
+msgid "cup"
+msgstr ""
+
+#: index.php:224
+msgid "crown"
+msgstr ""
+
+#: index.php:225
+msgid "comments"
+msgstr ""
+
+#: index.php:226
+msgid "comment"
+msgstr ""
+
+#: index.php:227
+msgid "comment-alt"
+msgstr ""
+
+#: index.php:228
+msgid "close"
+msgstr ""
+
+#: index.php:229
+msgid "clip"
+msgstr ""
+
+#: index.php:230
+msgid "angle-up"
+msgstr ""
+
+#: index.php:231
+msgid "angle-right"
+msgstr ""
+
+#: index.php:232
+msgid "angle-left"
+msgstr ""
+
+#: index.php:233
+msgid "angle-down"
+msgstr ""
+
+#: index.php:234
+msgid "check"
+msgstr ""
+
+#: index.php:235
+msgid "check-box"
+msgstr ""
+
+#: index.php:236
+msgid "camera"
+msgstr ""
+
+#: index.php:237
+msgid "announcement"
+msgstr ""
+
+#: index.php:238
+msgid "brush"
+msgstr ""
+
+#: index.php:239
+msgid "briefcase"
+msgstr ""
+
+#: index.php:240
+msgid "bolt"
+msgstr ""
+
+#: index.php:241
+msgid "bolt-alt"
+msgstr ""
+
+#: index.php:242
+msgid "blackboard"
+msgstr ""
+
+#: index.php:243
+msgid "bag"
+msgstr ""
+
+#: index.php:244
+msgid "move"
+msgstr ""
+
+#: index.php:245
+msgid "arrows-vertical\t"
+msgstr ""
+
+#: index.php:246
+msgid "arrows-horizontal"
+msgstr ""
+
+#: index.php:247
+msgid "arrow-top-right"
+msgstr ""
+
+#: index.php:248
+msgid "arrow-top-left"
+msgstr ""
+
+#: index.php:249
+msgid "arrow-circle-up"
+msgstr ""
+
+#: index.php:250
+msgid "arrow-circle-right"
+msgstr ""
+
+#: index.php:251
+msgid "arrow-circle-left"
+msgstr ""
+
+#: index.php:252
+msgid "arrow-circle-down"
+msgstr ""
+
+#: index.php:253
+msgid "angle-double-up"
+msgstr ""
+
+#: index.php:254
+msgid "angle-double-right"
+msgstr ""
+
+#: index.php:255
+msgid "angle-double-left"
+msgstr ""
+
+#: index.php:256
+msgid "angle-double-down"
+msgstr ""
+
+#: index.php:257
+msgid "zip"
+msgstr ""
+
+#: index.php:258
+msgid "world"
+msgstr ""
+
+#: index.php:259
+msgid "wheelchair"
+msgstr ""
+
+#: index.php:260
+msgid "view-list"
+msgstr ""
+
+#: index.php:261
+msgid "view-list-alt"
+msgstr ""
+
+#: index.php:262
+msgid "view-grid"
+msgstr ""
+
+#: index.php:263
+msgid "uppercase"
+msgstr ""
+
+#: index.php:264
+msgid "upload"
+msgstr ""
+
+#: index.php:265
+msgid "underline"
+msgstr ""
+
+#: index.php:266
+msgid "truck"
+msgstr ""
+
+#: index.php:267
+msgid "timer"
+msgstr ""
+
+#: index.php:268
+msgid "ticket"
+msgstr ""
+
+#: index.php:269
+msgid "thumb-up"
+msgstr ""
+
+#: index.php:270
+msgid "thumb-down"
+msgstr ""
+
+#: index.php:271
+msgid "text"
+msgstr ""
+
+#: index.php:272
+msgid "stats-up"
+msgstr ""
+
+#: index.php:273
+msgid "stats-down"
+msgstr ""
+
+#: index.php:274
+msgid "split-v"
+msgstr ""
+
+#: index.php:275
+msgid "split-h"
+msgstr ""
+
+#: index.php:276
+msgid "smallcap"
+msgstr ""
+
+#: index.php:277
+msgid "shine"
+msgstr ""
+
+#: index.php:278
+msgid "shift-right"
+msgstr ""
+
+#: index.php:279
+msgid "shift-left"
+msgstr ""
+
+#: index.php:280
+msgid "shield"
+msgstr ""
+
+#: index.php:281
+msgid "notepad"
+msgstr ""
+
+#: index.php:282
+msgid "server"
+msgstr ""
+
+#: index.php:283
+msgid "quote-right"
+msgstr ""
+
+#: index.php:284
+msgid "quote-left"
+msgstr ""
+
+#: index.php:285
+msgid "pulse"
+msgstr ""
+
+#: index.php:286
+msgid "printer"
+msgstr ""
+
+#: index.php:287
+msgid "power-off"
+msgstr ""
+
+#: index.php:288
+msgid "plug"
+msgstr ""
+
+#: index.php:289
+msgid "pie-chart"
+msgstr ""
+
+#: index.php:290
+msgid "paragraph"
+msgstr ""
+
+#: index.php:291
+msgid "panel"
+msgstr ""
+
+#: index.php:292
+msgid "package"
+msgstr ""
+
+#: index.php:293
+msgid "music"
+msgstr ""
+
+#: index.php:294
+msgid "mouse"
+msgstr ""
+
+#: index.php:295
+msgid "mouse-alt"
+msgstr ""
+
+#: index.php:296
+msgid "money"
+msgstr ""
+
+#: index.php:297
+msgid "microphone"
+msgstr ""
+
+#: index.php:298
+msgid "menu"
+msgstr ""
+
+#: index.php:299
+msgid "menu-alt"
+msgstr ""
+
+#: index.php:300
+msgid "map"
+msgstr ""
+
+#: index.php:301
+msgid "map-alt"
+msgstr ""
+
+#: index.php:302
+msgid "loop"
+msgstr ""
+
+#: index.php:303
+msgid "location-pin"
+msgstr ""
+
+#: index.php:304
+msgid "list"
+msgstr ""
+
+#: index.php:305
+msgid "light-bulb"
+msgstr ""
+
+#: index.php:306
+msgid "Italic"
+msgstr ""
+
+#: index.php:307
+msgid "info"
+msgstr ""
+
+#: index.php:308
+msgid "infinite"
+msgstr ""
+
+#: index.php:309
+msgid "id-badge"
+msgstr ""
+
+#: index.php:310
+msgid "hummer"
+msgstr ""
+
+#: index.php:311
+msgid "home"
+msgstr ""
+
+#: index.php:312
+msgid "help"
+msgstr ""
+
+#: index.php:313
+msgid "headphone"
+msgstr ""
+
+#: index.php:314
+msgid "harddrives"
+msgstr ""
+
+#: index.php:315
+msgid "harddrive"
+msgstr ""
+
+#: index.php:316
+msgid "gift"
+msgstr ""
+
+#: index.php:317
+msgid "game"
+msgstr ""
+
+#: index.php:318
+msgid "filter"
+msgstr ""
+
+#: index.php:319
+msgid "files"
+msgstr ""
+
+#: index.php:320
+msgid "file"
+msgstr ""
+
+#: index.php:321
+msgid "eraser"
+msgstr ""
+
+#: index.php:322
+msgid "envelope"
+msgstr ""
+
+#: index.php:323
+msgid "download"
+msgstr ""
+
+#: index.php:324
+msgid "direction"
+msgstr ""
+
+#: index.php:325
+msgid "direction-alt"
+msgstr ""
+
+#: index.php:326
+msgid "dashboard"
+msgstr ""
+
+#: index.php:327
+msgid "control-stop"
+msgstr ""
+
+#: index.php:328
+msgid "control-shuffle"
+msgstr ""
+
+#: index.php:329
+msgid "control-play"
+msgstr ""
+
+#: index.php:330
+msgid "control-pause"
+msgstr ""
+
+#: index.php:331
+msgid "control-forward"
+msgstr ""
+
+#: index.php:332
+msgid "control-backward"
+msgstr ""
+
+#: index.php:333
+msgid "cloud"
+msgstr ""
+
+#: index.php:334
+msgid "cloud-up"
+msgstr ""
+
+#: index.php:335
+msgid "cloud-down"
+msgstr ""
+
+#: index.php:336
+msgid "clipboard"
+msgstr ""
+
+#: index.php:337
+msgid "car"
+msgstr ""
+
+#: index.php:338
+msgid "calendar"
+msgstr ""
+
+#: index.php:339
+msgid "bell"
+msgstr ""
+
+#: index.php:340
+msgid "basketball"
+msgstr ""
+
+#: index.php:341
+msgid "bar-chart"
+msgstr ""
+
+#: index.php:342
+msgid "bar-chart-alt"
+msgstr ""
+
+#: index.php:343
+msgid "back-right"
+msgstr ""
+
+#: index.php:344
+msgid "back-left"
+msgstr ""
+
+#: index.php:345
+msgid "arrows-corner"
+msgstr ""
+
+#: index.php:346
+msgid "archive"
+msgstr ""
+
+#: index.php:347
+msgid "anchor"
+msgstr ""
+
+#: index.php:348
+msgid "align-right"
+msgstr ""
+
+#: index.php:349
+msgid "align-left"
+msgstr ""
+
+#: index.php:350
+msgid "align-justify"
+msgstr ""
+
+#: index.php:351
+msgid "align-center"
+msgstr ""
+
+#: index.php:352
+msgid "alert"
+msgstr ""
+
+#: index.php:353
+msgid "alarm-clock"
+msgstr ""
+
+#: index.php:354
+msgid "agenda"
+msgstr ""
+
+#: index.php:355
+msgid "write"
+msgstr ""
+
+#: index.php:356
+msgid "window"
+msgstr ""
+
+#: index.php:357
+msgid "widgetized"
+msgstr ""
+
+#: index.php:358
+msgid "widget"
+msgstr ""
+
+#: index.php:359
+msgid "widget-alt"
+msgstr ""
+
+#: index.php:360
+msgid "wallet"
+msgstr ""
+
+#: index.php:361
+msgid "video-clapper"
+msgstr ""
+
+#: index.php:362
+msgid "video-camera"
+msgstr ""
+
+#: index.php:363
+msgid "vector"
+msgstr ""
+
+#: index.php:364
+msgid "themify-logo"
+msgstr ""
+
+#: index.php:365
+msgid "themify-favicon"
+msgstr ""
+
+#: index.php:366
+msgid "themify-favicon-alt"
+msgstr ""
+
+#: index.php:367
+msgid "support"
+msgstr ""
+
+#: index.php:368
+msgid "stamp"
+msgstr ""
+
+#: index.php:369
+msgid "split-v-alt"
+msgstr ""
+
+#: index.php:370
+msgid "slice"
+msgstr ""
+
+#: index.php:371
+msgid "shortcode"
+msgstr ""
+
+#: index.php:372
+msgid "shift-right-alt"
+msgstr ""
+
+#: index.php:373
+msgid "shift-left-alt"
+msgstr ""
+
+#: index.php:374
+msgid "ruler-alt-2"
+msgstr ""
+
+#: index.php:375
+msgid "receipt"
+msgstr ""
+
+#: index.php:376
+msgid "pin2"
+msgstr ""
+
+#: index.php:377
+msgid "pin-alt"
+msgstr ""
+
+#: index.php:378
+msgid "pencil-alt2"
+msgstr ""
+
+#: index.php:379
+msgid "palette"
+msgstr ""
+
+#: index.php:380
+msgid "more"
+msgstr ""
+
+#: index.php:381
+msgid "more-alt"
+msgstr ""
+
+#: index.php:382
+msgid "microphone-alt"
+msgstr ""
+
+#: index.php:383
+msgid "magnet"
+msgstr ""
+
+#: index.php:384
+msgid "line-double"
+msgstr ""
+
+#: index.php:385
+msgid "line-dotted"
+msgstr ""
+
+#: index.php:386
+msgid "line-dashed"
+msgstr ""
+
+#: index.php:387
+msgid "layout-width-full"
+msgstr ""
+
+#: index.php:388
+msgid "layout-width-default"
+msgstr ""
+
+#: index.php:389
+msgid "layout-width-default-alt"
+msgstr ""
+
+#: index.php:390
+msgid "layout-tab"
+msgstr ""
+
+#: index.php:391
+msgid "layout-tab-window"
+msgstr ""
+
+#: index.php:392
+msgid "layout-tab-v"
+msgstr ""
+
+#: index.php:393
+msgid "layout-tab-min"
+msgstr ""
+
+#: index.php:394
+msgid "layout-slider"
+msgstr ""
+
+#: index.php:395
+msgid "layout-slider-alt"
+msgstr ""
+
+#: index.php:396
+msgid "layout-sidebar-right"
+msgstr ""
+
+#: index.php:397
+msgid "layout-sidebar-none"
+msgstr ""
+
+#: index.php:398
+msgid "layout-sidebar-left"
+msgstr ""
+
+#: index.php:399
+msgid "layout-placeholder"
+msgstr ""
+
+#: index.php:400
+msgid "layout-menu"
+msgstr ""
+
+#: index.php:401
+msgid "layout-menu-v"
+msgstr ""
+
+#: index.php:402
+msgid "layout-menu-separated"
+msgstr ""
+
+#: index.php:403
+msgid "layout-menu-full"
+msgstr ""
+
+#: index.php:404
+msgid "layout-media-right-alt"
+msgstr ""
+
+#: index.php:405
+msgid "layout-media-right"
+msgstr ""
+
+#: index.php:406
+msgid "layout-media-overlay"
+msgstr ""
+
+#: index.php:407
+msgid "layout-media-overlay-alt"
+msgstr ""
+
+#: index.php:408
+msgid "layout-media-overlay-alt-2"
+msgstr ""
+
+#: index.php:409
+msgid "layout-media-left-alt"
+msgstr ""
+
+#: index.php:410
+msgid "layout-media-left"
+msgstr ""
+
+#: index.php:411
+msgid "layout-media-center-alt"
+msgstr ""
+
+#: index.php:412
+msgid "layout-media-center"
+msgstr ""
+
+#: index.php:413
+msgid "layout-list-thumb"
+msgstr ""
+
+#: index.php:414
+msgid "layout-list-thumb-alt"
+msgstr ""
+
+#: index.php:415
+msgid "layout-list-post"
+msgstr ""
+
+#: index.php:416
+msgid "layout-list-large-image"
+msgstr ""
+
+#: index.php:417
+msgid "layout-line-solid"
+msgstr ""
+
+#: index.php:418
+msgid "layout-grid4"
+msgstr ""
+
+#: index.php:419
+msgid "layout-grid3"
+msgstr ""
+
+#: index.php:420
+msgid "layout-grid2"
+msgstr ""
+
+#: index.php:421
+msgid "layout-grid2-thumb"
+msgstr ""
+
+#: index.php:422
+msgid "layout-cta-right"
+msgstr ""
+
+#: index.php:423
+msgid "layout-cta-left"
+msgstr ""
+
+#: index.php:424
+msgid "layout-cta-center"
+msgstr ""
+
+#: index.php:425
+msgid "layout-cta-btn-right"
+msgstr ""
+
+#: index.php:426
+msgid "layout-cta-btn-left"
+msgstr ""
+
+#: index.php:427
+msgid "layout-column4"
+msgstr ""
+
+#: index.php:428
+msgid "layout-column3"
+msgstr ""
+
+#: index.php:429
+msgid "layout-column2"
+msgstr ""
+
+#: index.php:430
+msgid "layout-accordion-separated\t"
+msgstr ""
+
+#: index.php:431
+msgid "layout-accordion-merged"
+msgstr ""
+
+#: index.php:432
+msgid "layout-accordion-list"
+msgstr ""
+
+#: index.php:433
+msgid "ink-pen"
+msgstr ""
+
+#: index.php:434
+msgid "info-alt"
+msgstr ""
+
+#: index.php:435
+msgid "help-alt"
+msgstr ""
+
+#: index.php:436
+msgid "headphone-alt"
+msgstr ""
+
+#: index.php:437
+msgid "hand-point-up"
+msgstr ""
+
+#: index.php:438
+msgid "hand-point-right"
+msgstr ""
+
+#: index.php:439
+msgid "hand-point-left"
+msgstr ""
+
+#: index.php:440
+msgid "hand-point-down"
+msgstr ""
+
+#: index.php:441
+msgid "gallery"
+msgstr ""
+
+#: index.php:442
+msgid "face-smile"
+msgstr ""
+
+#: index.php:443
+msgid "face-sad"
+msgstr ""
+
+#: index.php:444
+msgid "credit-card"
+msgstr ""
+
+#: index.php:445
+msgid "control-skip-forward"
+msgstr ""
+
+#: index.php:446
+msgid "control-skip-backward"
+msgstr ""
+
+#: index.php:447
+msgid "control-record"
+msgstr ""
+
+#: index.php:448
+msgid "control-eject"
+msgstr ""
+
+#: index.php:449
+msgid "comments-smiley"
+msgstr ""
+
+#: index.php:450
+msgid "brush-alt"
+msgstr ""
+
+#: index.php:451
+msgid "youtube"
+msgstr ""
+
+#: index.php:452
+msgid "vimeo"
+msgstr ""
+
+#: index.php:453
+msgid "twitter"
+msgstr ""
+
+#: index.php:454
+msgid "time"
+msgstr ""
+
+#: index.php:455
+msgid "tumblr"
+msgstr ""
+
+#: index.php:456
+msgid "skype"
+msgstr ""
+
+#: index.php:457
+msgid "share-alt"
+msgstr ""
+
+#: index.php:458
+msgid "rocket"
+msgstr ""
+
+#: index.php:459
+msgid "pinterest"
+msgstr ""
+
+#: index.php:460
+msgid "new-window"
+msgstr ""
+
+#: index.php:461
+msgid "microsoft"
+msgstr ""
+
+#: index.php:462
+msgid "list-ol"
+msgstr ""
+
+#: index.php:463
+msgid "linkedin"
+msgstr ""
+
+#: index.php:464
+msgid "layout-sidebar-2"
+msgstr ""
+
+#: index.php:465
+msgid "layout-grid4-alt"
+msgstr ""
+
+#: index.php:466
+msgid "layout-grid3-alt"
+msgstr ""
+
+#: index.php:467
+msgid "layout-grid2-alt"
+msgstr ""
+
+#: index.php:468
+msgid "layout-column4-alt"
+msgstr ""
+
+#: index.php:469
+msgid "layout-column3-alt"
+msgstr ""
+
+#: index.php:470
+msgid "layout-column2-alt"
+msgstr ""
+
+#: index.php:471
+msgid "instagram"
+msgstr ""
+
+#: index.php:472
+msgid "google"
+msgstr ""
+
+#: index.php:473
+msgid "github"
+msgstr ""
+
+#: index.php:474
+msgid "flickr"
+msgstr ""
+
+#: index.php:475
+msgid "facebook"
+msgstr ""
+
+#: index.php:476
+msgid "dropbox"
+msgstr ""
+
+#: index.php:477
+msgid "dribbble"
+msgstr ""
+
+#: index.php:478
+msgid "apple"
+msgstr ""
+
+#: index.php:479
+msgid "android"
+msgstr ""
+
+#: index.php:480
+msgid "save"
+msgstr ""
+
+#: index.php:481
+msgid "yahoo"
+msgstr ""
+
+#: index.php:482
+msgid "wordpress"
+msgstr ""
+
+#: index.php:483
+msgid "vimeo-alt"
+msgstr ""
+
+#: index.php:484
+msgid "twitter-alt"
+msgstr ""
+
+#: index.php:485
+msgid "tumblr-alt"
+msgstr ""
+
+#: index.php:486
+msgid "trello"
+msgstr ""
+
+#: index.php:487
+msgid "stack-overflow"
+msgstr ""
+
+#: index.php:488
+msgid "soundcloud"
+msgstr ""
+
+#: index.php:489
+msgid "sharethis"
+msgstr ""
+
+#: index.php:490
+msgid "sharethis-alt"
+msgstr ""
+
+#: index.php:491
+msgid "reddit"
+msgstr ""
+
+#: index.php:492
+msgid "pinterest-alt"
+msgstr ""
+
+#: index.php:493
+msgid "microsoft-alt"
+msgstr ""
+
+#: index.php:494
+msgid "linux"
+msgstr ""
+
+#: index.php:495
+msgid "jsfiddle"
+msgstr ""
+
+#: index.php:496
+msgid "joomla"
+msgstr ""
+
+#: index.php:497
+msgid "html5"
+msgstr ""
+
+#: index.php:498
+msgid "flickr-alt"
+msgstr ""
+
+#: index.php:499
+msgid "email"
+msgstr ""
+
+#: index.php:500
+msgid "drupal"
+msgstr ""
+
+#: index.php:501
+msgid "dropbox-alt"
+msgstr ""
+
+#: index.php:502
+msgid "css3"
+msgstr ""
+
+#: index.php:503
+msgid "rss"
+msgstr ""
+
+#: index.php:504
+msgid "rss-alt"
+msgstr ""
+
+#: insignia-custom-post-type.php:7 insignia-custom-post-type.php:8
+#: insignia-custom-post-type.php:34
+msgid "Testimonial"
+msgstr ""
+
+#: insignia-custom-post-type.php:9
+msgid "Testimonial Archives"
+msgstr ""
+
+#: insignia-custom-post-type.php:10
+msgid "Item Attributes"
+msgstr ""
+
+#: insignia-custom-post-type.php:11
+msgid "Parent Item:"
+msgstr ""
+
+#: insignia-custom-post-type.php:12
+msgid "All Testimonials"
+msgstr ""
+
+#: insignia-custom-post-type.php:13 insignia-custom-post-type.php:14
+msgid "Add New Testimonial"
+msgstr ""
+
+#: insignia-custom-post-type.php:15
+msgid "New Item"
+msgstr ""
+
+#: insignia-custom-post-type.php:16
+msgid "Edit Testimonial"
+msgstr ""
+
+#: insignia-custom-post-type.php:17
+msgid "Update Testimonial"
+msgstr ""
+
+#: insignia-custom-post-type.php:18
+msgid "View Testimonial"
+msgstr ""
+
+#: insignia-custom-post-type.php:19
+msgid "View Testimonials"
+msgstr ""
+
+#: insignia-custom-post-type.php:20
+msgid "Search Testimonial"
+msgstr ""
+
+#: insignia-custom-post-type.php:21
+msgid "Not found"
+msgstr ""
+
+#: insignia-custom-post-type.php:22
+msgid "Not found in Trash"
+msgstr ""
+
+#: insignia-custom-post-type.php:23
+msgid "Featured Image"
+msgstr ""
+
+#: insignia-custom-post-type.php:24
+msgid "Set featured image"
+msgstr ""
+
+#: insignia-custom-post-type.php:25
+msgid "Remove featured image"
+msgstr ""
+
+#: insignia-custom-post-type.php:26
+msgid "Use as featured image"
+msgstr ""
+
+#: insignia-custom-post-type.php:27
+msgid "Insert into Testimonial"
+msgstr ""
+
+#: insignia-custom-post-type.php:28
+msgid "Uploaded to this item"
+msgstr ""
+
+#: insignia-custom-post-type.php:29
+msgid "Testimonials list"
+msgstr ""
+
+#: insignia-custom-post-type.php:30
+msgid "Testimonials list navigation"
+msgstr ""
+
+#: insignia-custom-post-type.php:31
+msgid "Filter Testimonials list"
+msgstr ""
+
+#: insignia-custom-post-type.php:61
+msgid "Testimonial Category"
+msgstr ""
+
+#: insignia-custom-post-type.php:110
+msgid "Portfolio Category"
+msgstr ""
+
+#: plugins/nav-menu-custom-fields/nav-menu-custom-fields.php:145
+msgid "Mega Menu"
+msgstr ""
+
+#: social-sharing/socials-sharing.php:7
+msgid "Facebook"
+msgstr ""
+
+#: social-sharing/socials-sharing.php:8
+msgid "Twitter"
+msgstr ""
+
+#: social-sharing/socials-sharing.php:9
+msgid "Google Plus"
+msgstr ""
+
+#: social-sharing/socials-sharing.php:10
+msgid "Pinterest"
+msgstr ""
+
+#: social-sharing/socials-sharing.php:11
+msgid "Linkedin"
+msgstr ""
+
+#: vc_template/VC_Button.php:16
+msgid "Buttons"
+msgstr ""
+
+#: vc_template/VC_Button.php:19 vc_template/VC_Custom-icon-with-text.php:20
+#: vc_template/VC_Image-Gallery.php:20 vc_template/VC_Message-box.php:17
+#: vc_template/VC_News-Blog.php:27 vc_template/VC_Portfolio.php:29
+#: vc_template/VC_Pricing-box.php:17 vc_template/VC_blockquotes.php:17
+#: vc_template/VC_clients-logos.php:19 vc_template/VC_counter.php:16
+#: vc_template/VC_custom-menu.php:28 vc_template/VC_flip-box.php:20
+#: vc_template/VC_google-map.php:16 vc_template/VC_icon-box.php:20
+#: vc_template/VC_icon-with-image-box.php:21 vc_template/VC_image-box.php:20
+#: vc_template/VC_interactive-banner.php:19 vc_template/VC_number-box.php:17
+#: vc_template/VC_section-heading.php:20 vc_template/VC_simple-icon-list.php:19
+#: vc_template/VC_social-icons.php:160 vc_template/VC_table.php:17
+#: vc_template/VC_team.php:154 vc_template/VC_testimonial.php:12
+#: vc_template/VC_toggle.php:34 vc_template/VC_video_lightbox.php:17
+#: vc_template/VC_working_hours.php:17
+msgid "Insignia"
+msgstr ""
+
+#: vc_template/VC_Button.php:30 vc_template/VC_Pricing-box.php:150
+#: vc_template/VC_toggle.php:43
+msgid "Button Label"
+msgstr ""
+
+#: vc_template/VC_Button.php:35 vc_template/VC_toggle.php:47
+msgid "Text on the button."
+msgstr ""
+
+#: vc_template/VC_Button.php:42 vc_template/VC_icon-with-image-box.php:113
+#: vc_template/VC_image-box.php:107 vc_template/VC_interactive-banner.php:81
+#: vc_template/VC_toggle.php:53
+msgid "Button Link (url)"
+msgstr ""
+
+#: vc_template/VC_Button.php:45 vc_template/VC_icon-with-image-box.php:116
+#: vc_template/VC_image-box.php:110 vc_template/VC_interactive-banner.php:84
+#: vc_template/VC_toggle.php:56
+msgid "Button link"
+msgstr ""
+
+#: vc_template/VC_Button.php:53 vc_template/VC_toggle.php:64
+msgid "Button Size"
+msgstr ""
+
+#: vc_template/VC_Button.php:56 vc_template/VC_toggle.php:67
+msgid "Select Button Size you would like to use"
+msgstr ""
+
+#: vc_template/VC_Button.php:73 vc_template/VC_social-icons.php:35
+#: vc_template/VC_toggle.php:83 vc_template/VC_video_lightbox.php:59
+msgid "Border Radius"
+msgstr ""
+
+#: vc_template/VC_Button.php:76 vc_template/VC_Pricing-box.php:174
+#: vc_template/VC_interactive-banner.php:231 vc_template/VC_toggle.php:86
+msgid "Button border radius. Rounded corners."
+msgstr ""
+
+#: vc_template/VC_Button.php:92 vc_template/VC_toggle.php:102
+msgid "Button Alignment"
+msgstr ""
+
+#: vc_template/VC_Button.php:115 vc_template/VC_section-heading.php:115
+#: vc_template/VC_toggle.php:123
+msgid "Icon?"
+msgstr ""
+
+#: vc_template/VC_Button.php:124 vc_template/VC_toggle.php:132
+msgid "Icon library"
+msgstr ""
+
+#: vc_template/VC_Button.php:125 vc_template/VC_toggle.php:133
+msgid "Font Awesome"
+msgstr ""
+
+#: vc_template/VC_Button.php:126 vc_template/VC_toggle.php:134
+msgid "Open Iconic"
+msgstr ""
+
+#: vc_template/VC_Button.php:127 vc_template/VC_toggle.php:135
+msgid "Typicons"
+msgstr ""
+
+#: vc_template/VC_Button.php:128 vc_template/VC_toggle.php:136
+msgid "Entypo"
+msgstr ""
+
+#: vc_template/VC_Button.php:129 vc_template/VC_toggle.php:137
+msgid "Linecons"
+msgstr ""
+
+#: vc_template/VC_Button.php:130 vc_template/VC_toggle.php:138
+msgid "Mono Social"
+msgstr ""
+
+#: vc_template/VC_Button.php:131 vc_template/VC_toggle.php:139
+msgid "Material"
+msgstr ""
+
+#: vc_template/VC_Button.php:132 vc_template/VC_toggle.php:140
+msgid "Themify"
+msgstr ""
+
+#: vc_template/VC_Button.php:138 vc_template/VC_toggle.php:146
+msgid "Select icon library."
+msgstr ""
+
+#: vc_template/VC_Button.php:148 vc_template/VC_Button.php:168
+#: vc_template/VC_Button.php:191 vc_template/VC_Button.php:213
+#: vc_template/VC_Button.php:234 vc_template/VC_Button.php:256
+#: vc_template/VC_Button.php:278 vc_template/VC_Button.php:299
+#: vc_template/VC_counter.php:122 vc_template/VC_flip-box.php:216
+#: vc_template/VC_flip-box.php:248 vc_template/VC_icon-box.php:71
+#: vc_template/VC_icon-with-image-box.php:128
+#: vc_template/VC_section-heading.php:124
+#: vc_template/VC_simple-icon-list.php:27 vc_template/VC_toggle.php:155
+#: vc_template/VC_toggle.php:174 vc_template/VC_toggle.php:196
+#: vc_template/VC_toggle.php:218 vc_template/VC_toggle.php:239
+#: vc_template/VC_toggle.php:261 vc_template/VC_toggle.php:283
+#: vc_template/VC_toggle.php:305
+msgid "Icon"
+msgstr ""
+
+#: vc_template/VC_Button.php:163 vc_template/VC_Button.php:185
+#: vc_template/VC_Button.php:208 vc_template/VC_Button.php:251
+#: vc_template/VC_Button.php:273 vc_template/VC_Button.php:295
+#: vc_template/VC_Button.php:316 vc_template/VC_Pricing-box.php:121
+#: vc_template/VC_counter.php:129 vc_template/VC_flip-box.php:223
+#: vc_template/VC_flip-box.php:256 vc_template/VC_icon-box.php:79
+#: vc_template/VC_icon-with-image-box.php:135
+#: vc_template/VC_section-heading.php:131
+#: vc_template/VC_simple-icon-list.php:39 vc_template/VC_toggle.php:169
+#: vc_template/VC_toggle.php:190 vc_template/VC_toggle.php:213
+#: vc_template/VC_toggle.php:256 vc_template/VC_toggle.php:278
+#: vc_template/VC_toggle.php:300 vc_template/VC_toggle.php:322
+msgid "Select icon from library."
+msgstr ""
+
+#: vc_template/VC_Button.php:323 vc_template/VC_simple-icon-list.php:58
+#: vc_template/VC_toggle.php:328
+msgid "Icon Style"
+msgstr ""
+
+#: vc_template/VC_Button.php:326 vc_template/VC_toggle.php:331
+msgid "Choose a display style for your button's icon."
+msgstr ""
+
+#: vc_template/VC_Button.php:342 vc_template/VC_counter.php:156
+#: vc_template/VC_toggle.php:350
+msgid "Text Transform"
+msgstr ""
+
+#: vc_template/VC_Button.php:345 vc_template/VC_toggle.php:353
+msgid "Button label text transform."
+msgstr ""
+
+#: vc_template/VC_Button.php:357 vc_template/VC_section-heading.php:97
+#: vc_template/VC_toggle.php:369
+msgid "Margin Top"
+msgstr ""
+
+#: vc_template/VC_Button.php:361 vc_template/VC_toggle.php:373
+msgid "Change button's top margin value. Default value: 20px"
+msgstr ""
+
+#: vc_template/VC_Button.php:367 vc_template/VC_section-heading.php:104
+#: vc_template/VC_toggle.php:381
+msgid "Margin Bottom"
+msgstr ""
+
+#: vc_template/VC_Button.php:371 vc_template/VC_toggle.php:385
+msgid "Change button's bottom margin value. Default value: 20px"
+msgstr ""
+
+#: vc_template/VC_Button.php:376 vc_template/VC_Custom-icon-with-text.php:166
+#: vc_template/VC_Image-Gallery.php:84 vc_template/VC_News-Blog.php:121
+#: vc_template/VC_Portfolio.php:210 vc_template/VC_Pricing-box.php:194
+#: vc_template/VC_blockquotes.php:45 vc_template/VC_clients-logos.php:153
+#: vc_template/VC_counter.php:174 vc_template/VC_flip-box.php:281
+#: vc_template/VC_google-map.php:75 vc_template/VC_icon-box.php:179
+#: vc_template/VC_icon-with-image-box.php:141 vc_template/VC_image-box.php:141
+#: vc_template/VC_interactive-banner.php:99 vc_template/VC_number-box.php:148
+#: vc_template/VC_section-heading.php:143
+#: vc_template/VC_simple-icon-list.php:116 vc_template/VC_social-icons.php:91
+#: vc_template/VC_table.php:53 vc_template/VC_team.php:83
+#: vc_template/VC_testimonial.php:62 vc_template/VC_toggle.php:404
+#: vc_template/VC_video_lightbox.php:137 vc_template/VC_working_hours.php:78
+msgid "CSS Animation"
+msgstr ""
+
+#: vc_template/VC_Button.php:388 vc_template/VC_Custom-icon-with-text.php:178
+#: vc_template/VC_Image-Gallery.php:96 vc_template/VC_News-Blog.php:133
+#: vc_template/VC_Portfolio.php:222 vc_template/VC_Pricing-box.php:205
+#: vc_template/VC_blockquotes.php:56 vc_template/VC_clients-logos.php:166
+#: vc_template/VC_counter.php:186 vc_template/VC_flip-box.php:292
+#: vc_template/VC_google-map.php:86 vc_template/VC_icon-box.php:191
+#: vc_template/VC_icon-with-image-box.php:153 vc_template/VC_image-box.php:153
+#: vc_template/VC_interactive-banner.php:111 vc_template/VC_number-box.php:160
+#: vc_template/VC_section-heading.php:154
+#: vc_template/VC_simple-icon-list.php:128 vc_template/VC_social-icons.php:103
+#: vc_template/VC_table.php:65 vc_template/VC_team.php:94
+#: vc_template/VC_testimonial.php:73 vc_template/VC_toggle.php:416
+#: vc_template/VC_video_lightbox.php:149 vc_template/VC_working_hours.php:89
+msgid ""
+"Select type of animation for element to be animated when it enters the "
+"browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+
+#: vc_template/VC_Button.php:394 vc_template/VC_Custom-icon-with-text.php:184
+#: vc_template/VC_Image-Gallery.php:102 vc_template/VC_News-Blog.php:144
+#: vc_template/VC_Portfolio.php:233 vc_template/VC_Pricing-box.php:211
+#: vc_template/VC_blockquotes.php:62 vc_template/VC_clients-logos.php:172
+#: vc_template/VC_counter.php:192 vc_template/VC_flip-box.php:298
+#: vc_template/VC_google-map.php:92 vc_template/VC_icon-box.php:197
+#: vc_template/VC_icon-with-image-box.php:159 vc_template/VC_image-box.php:159
+#: vc_template/VC_interactive-banner.php:117 vc_template/VC_number-box.php:166
+#: vc_template/VC_section-heading.php:160
+#: vc_template/VC_simple-icon-list.php:134 vc_template/VC_social-icons.php:109
+#: vc_template/VC_table.php:71 vc_template/VC_team.php:100
+#: vc_template/VC_testimonial.php:79 vc_template/VC_toggle.php:422
+#: vc_template/VC_video_lightbox.php:155 vc_template/VC_working_hours.php:95
+msgid "Animation Delay"
+msgstr ""
+
+#: vc_template/VC_Button.php:409 vc_template/VC_Custom-icon-with-text.php:199
+#: vc_template/VC_Image-Gallery.php:117 vc_template/VC_News-Blog.php:159
+#: vc_template/VC_Portfolio.php:248 vc_template/VC_Pricing-box.php:225
+#: vc_template/VC_blockquotes.php:76 vc_template/VC_clients-logos.php:187
+#: vc_template/VC_counter.php:207 vc_template/VC_flip-box.php:312
+#: vc_template/VC_google-map.php:106 vc_template/VC_icon-box.php:212
+#: vc_template/VC_icon-with-image-box.php:174 vc_template/VC_image-box.php:174
+#: vc_template/VC_interactive-banner.php:132 vc_template/VC_number-box.php:181
+#: vc_template/VC_section-heading.php:174
+#: vc_template/VC_simple-icon-list.php:149 vc_template/VC_social-icons.php:124
+#: vc_template/VC_table.php:86 vc_template/VC_team.php:114
+#: vc_template/VC_testimonial.php:93 vc_template/VC_toggle.php:437
+#: vc_template/VC_video_lightbox.php:170 vc_template/VC_working_hours.php:109
+msgid "Enter animation delay in ms"
+msgstr ""
+
+#: vc_template/VC_Button.php:415 vc_template/VC_Custom-icon-with-text.php:206
+#: vc_template/VC_Image-Gallery.php:124 vc_template/VC_News-Blog.php:185
+#: vc_template/VC_Portfolio.php:258 vc_template/VC_Pricing-box.php:233
+#: vc_template/VC_clients-logos.php:196 vc_template/VC_counter.php:215
+#: vc_template/VC_custom-menu.php:51 vc_template/VC_google-map.php:114
+#: vc_template/VC_icon-box.php:220 vc_template/VC_icon-with-image-box.php:181
+#: vc_template/VC_image-box.php:182 vc_template/VC_interactive-banner.php:140
+#: vc_template/VC_number-box.php:189 vc_template/VC_simple-icon-list.php:156
+#: vc_template/VC_table.php:92 vc_template/VC_team.php:49
+#: vc_template/VC_testimonial.php:100 vc_template/VC_toggle.php:443
+#: vc_template/VC_video_lightbox.php:177
+msgid "Extra Class Name"
+msgstr ""
+
+#: vc_template/VC_Button.php:419 vc_template/VC_Custom-icon-with-text.php:210
+#: vc_template/VC_Image-Gallery.php:128 vc_template/VC_News-Blog.php:189
+#: vc_template/VC_Portfolio.php:262 vc_template/VC_Pricing-box.php:236
+#: vc_template/VC_clients-logos.php:200 vc_template/VC_counter.php:219
+#: vc_template/VC_custom-menu.php:55 vc_template/VC_flip-box.php:275
+#: vc_template/VC_google-map.php:117 vc_template/VC_icon-box.php:224
+#: vc_template/VC_icon-with-image-box.php:185 vc_template/VC_image-box.php:186
+#: vc_template/VC_interactive-banner.php:144 vc_template/VC_number-box.php:193
+#: vc_template/VC_section-heading.php:181
+#: vc_template/VC_simple-icon-list.php:160 vc_template/VC_table.php:96
+#: vc_template/VC_team.php:52 vc_template/VC_testimonial.php:103
+#: vc_template/VC_toggle.php:447 vc_template/VC_video_lightbox.php:180
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: vc_template/VC_Button.php:425 vc_template/VC_Custom-icon-with-text.php:281
+#: vc_template/VC_icon-box.php:310 vc_template/VC_toggle.php:455
+msgid "Text Font-weight"
+msgstr ""
+
+#: vc_template/VC_Button.php:428 vc_template/VC_toggle.php:458
+msgid "Select Button text font-weight."
+msgstr ""
+
+#: vc_template/VC_Button.php:430 vc_template/VC_Custom-icon-with-text.php:264
+#: vc_template/VC_Custom-icon-with-text.php:286
+#: vc_template/VC_call-to-action.php:117 vc_template/VC_call-to-action.php:138
+#: vc_template/VC_counter.php:270 vc_template/VC_counter.php:292
+#: vc_template/VC_icon-box.php:293 vc_template/VC_icon-box.php:315
+#: vc_template/VC_icon-with-image-box.php:305 vc_template/VC_image-box.php:246
+#: vc_template/VC_interactive-banner.php:183
+#: vc_template/VC_interactive-banner.php:260 vc_template/VC_number-box.php:279
+#: vc_template/VC_number-box.php:302 vc_template/VC_section-heading.php:190
+#: vc_template/VC_section-heading.php:208
+#: vc_template/VC_section-heading.php:232
+#: vc_template/VC_section-heading.php:284
+#: vc_template/VC_section-heading.php:331 vc_template/VC_toggle.php:460
+msgid "Theme defaults"
+msgstr ""
+
+#: vc_template/VC_Button.php:431 vc_template/VC_Custom-icon-with-text.php:265
+#: vc_template/VC_Custom-icon-with-text.php:287
+#: vc_template/VC_call-to-action.php:118 vc_template/VC_call-to-action.php:139
+#: vc_template/VC_counter.php:271 vc_template/VC_counter.php:293
+#: vc_template/VC_icon-box.php:294 vc_template/VC_icon-box.php:316
+#: vc_template/VC_icon-with-image-box.php:306 vc_template/VC_image-box.php:247
+#: vc_template/VC_interactive-banner.php:184
+#: vc_template/VC_interactive-banner.php:261 vc_template/VC_number-box.php:280
+#: vc_template/VC_number-box.php:303 vc_template/VC_section-heading.php:209
+#: vc_template/VC_section-heading.php:332 vc_template/VC_toggle.php:461
+msgid "100"
+msgstr ""
+
+#: vc_template/VC_Button.php:432 vc_template/VC_Custom-icon-with-text.php:266
+#: vc_template/VC_Custom-icon-with-text.php:288
+#: vc_template/VC_call-to-action.php:119 vc_template/VC_call-to-action.php:140
+#: vc_template/VC_counter.php:272 vc_template/VC_counter.php:294
+#: vc_template/VC_icon-box.php:295 vc_template/VC_icon-box.php:317
+#: vc_template/VC_icon-with-image-box.php:307 vc_template/VC_image-box.php:248
+#: vc_template/VC_interactive-banner.php:185
+#: vc_template/VC_interactive-banner.php:262 vc_template/VC_number-box.php:281
+#: vc_template/VC_number-box.php:304 vc_template/VC_section-heading.php:210
+#: vc_template/VC_section-heading.php:333 vc_template/VC_toggle.php:462
+msgid "200"
+msgstr ""
+
+#: vc_template/VC_Button.php:433 vc_template/VC_Custom-icon-with-text.php:267
+#: vc_template/VC_Custom-icon-with-text.php:289
+#: vc_template/VC_call-to-action.php:120 vc_template/VC_call-to-action.php:141
+#: vc_template/VC_counter.php:273 vc_template/VC_counter.php:295
+#: vc_template/VC_icon-box.php:296 vc_template/VC_icon-box.php:318
+#: vc_template/VC_icon-with-image-box.php:308 vc_template/VC_image-box.php:249
+#: vc_template/VC_interactive-banner.php:186
+#: vc_template/VC_interactive-banner.php:263 vc_template/VC_number-box.php:282
+#: vc_template/VC_number-box.php:305 vc_template/VC_section-heading.php:211
+#: vc_template/VC_section-heading.php:334 vc_template/VC_toggle.php:463
+msgid "300"
+msgstr ""
+
+#: vc_template/VC_Button.php:434 vc_template/VC_Custom-icon-with-text.php:268
+#: vc_template/VC_Custom-icon-with-text.php:290
+#: vc_template/VC_call-to-action.php:121 vc_template/VC_call-to-action.php:142
+#: vc_template/VC_counter.php:274 vc_template/VC_counter.php:296
+#: vc_template/VC_icon-box.php:297 vc_template/VC_icon-box.php:319
+#: vc_template/VC_icon-with-image-box.php:309 vc_template/VC_image-box.php:250
+#: vc_template/VC_interactive-banner.php:187
+#: vc_template/VC_interactive-banner.php:264 vc_template/VC_number-box.php:283
+#: vc_template/VC_number-box.php:306 vc_template/VC_section-heading.php:212
+#: vc_template/VC_section-heading.php:335 vc_template/VC_toggle.php:464
+msgid "400"
+msgstr ""
+
+#: vc_template/VC_Button.php:435 vc_template/VC_Custom-icon-with-text.php:269
+#: vc_template/VC_Custom-icon-with-text.php:291
+#: vc_template/VC_call-to-action.php:122 vc_template/VC_call-to-action.php:143
+#: vc_template/VC_counter.php:275 vc_template/VC_counter.php:297
+#: vc_template/VC_icon-box.php:298 vc_template/VC_icon-box.php:320
+#: vc_template/VC_icon-with-image-box.php:310 vc_template/VC_image-box.php:251
+#: vc_template/VC_interactive-banner.php:188
+#: vc_template/VC_interactive-banner.php:265 vc_template/VC_number-box.php:284
+#: vc_template/VC_number-box.php:307 vc_template/VC_section-heading.php:213
+#: vc_template/VC_section-heading.php:336 vc_template/VC_toggle.php:465
+msgid "500"
+msgstr ""
+
+#: vc_template/VC_Button.php:436 vc_template/VC_Custom-icon-with-text.php:270
+#: vc_template/VC_Custom-icon-with-text.php:292
+#: vc_template/VC_call-to-action.php:123 vc_template/VC_call-to-action.php:144
+#: vc_template/VC_counter.php:276 vc_template/VC_counter.php:298
+#: vc_template/VC_icon-box.php:299 vc_template/VC_icon-box.php:321
+#: vc_template/VC_icon-with-image-box.php:311 vc_template/VC_image-box.php:252
+#: vc_template/VC_interactive-banner.php:189
+#: vc_template/VC_interactive-banner.php:266 vc_template/VC_number-box.php:285
+#: vc_template/VC_number-box.php:308 vc_template/VC_section-heading.php:214
+#: vc_template/VC_section-heading.php:337 vc_template/VC_toggle.php:466
+msgid "600"
+msgstr ""
+
+#: vc_template/VC_Button.php:437 vc_template/VC_Custom-icon-with-text.php:271
+#: vc_template/VC_Custom-icon-with-text.php:293
+#: vc_template/VC_call-to-action.php:124 vc_template/VC_call-to-action.php:145
+#: vc_template/VC_counter.php:277 vc_template/VC_counter.php:299
+#: vc_template/VC_icon-box.php:300 vc_template/VC_icon-box.php:322
+#: vc_template/VC_icon-with-image-box.php:312 vc_template/VC_image-box.php:253
+#: vc_template/VC_interactive-banner.php:190
+#: vc_template/VC_interactive-banner.php:267 vc_template/VC_number-box.php:286
+#: vc_template/VC_number-box.php:309 vc_template/VC_section-heading.php:215
+#: vc_template/VC_section-heading.php:338 vc_template/VC_toggle.php:467
+msgid "700"
+msgstr ""
+
+#: vc_template/VC_Button.php:438 vc_template/VC_Custom-icon-with-text.php:272
+#: vc_template/VC_Custom-icon-with-text.php:294
+#: vc_template/VC_call-to-action.php:125 vc_template/VC_call-to-action.php:146
+#: vc_template/VC_counter.php:278 vc_template/VC_counter.php:300
+#: vc_template/VC_icon-box.php:301 vc_template/VC_icon-box.php:323
+#: vc_template/VC_icon-with-image-box.php:313 vc_template/VC_image-box.php:254
+#: vc_template/VC_interactive-banner.php:191
+#: vc_template/VC_interactive-banner.php:268 vc_template/VC_number-box.php:287
+#: vc_template/VC_number-box.php:310 vc_template/VC_section-heading.php:216
+#: vc_template/VC_section-heading.php:339 vc_template/VC_toggle.php:468
+msgid "900"
+msgstr ""
+
+#: vc_template/VC_Button.php:446 vc_template/VC_blockquotes.php:95
+#: vc_template/VC_image-box.php:286 vc_template/VC_toggle.php:477
+#: vc_template/VC_working_hours.php:57
+msgid "Text Color"
+msgstr ""
+
+#: vc_template/VC_Button.php:450 vc_template/VC_blockquotes.php:99
+#: vc_template/VC_blockquotes.php:109 vc_template/VC_image-box.php:290
+#: vc_template/VC_toggle.php:481
+msgid " Choose Text Color.If you leave it empty, It will set default color"
+msgstr ""
+
+#: vc_template/VC_Button.php:456 vc_template/VC_toggle.php:488
+msgid "Hover Text Color"
+msgstr ""
+
+#: vc_template/VC_Button.php:460 vc_template/VC_toggle.php:492
+msgid ""
+" Choose Hover Text Color.If you leave it empty, It will set default color"
+msgstr ""
+
+#: vc_template/VC_Button.php:471 vc_template/VC_Button.php:493
+#: vc_template/VC_blockquotes.php:119 vc_template/VC_testimonial.php:239
+#: vc_template/VC_toggle.php:505 vc_template/VC_toggle.php:529
+msgid ""
+" Choose Background Color.If you leave it empty, It will set default color"
+msgstr ""
+
+#: vc_template/VC_Button.php:478 vc_template/VC_toggle.php:513
+msgid "Hover Background Color"
+msgstr ""
+
+#: vc_template/VC_Button.php:482 vc_template/VC_toggle.php:517
+msgid ""
+" Choose Hover Background Color.If you leave it empty, It will set default "
+"color"
+msgstr ""
+
+#: vc_template/VC_Button.php:489 vc_template/VC_section-heading.php:360
+#: vc_template/VC_toggle.php:525 vc_template/VC_working_hours.php:68
+msgid "Border Color"
+msgstr ""
+
+#: vc_template/VC_Button.php:500 vc_template/VC_toggle.php:537
+msgid "Hover Border Color"
+msgstr ""
+
+#: vc_template/VC_Button.php:504 vc_template/VC_toggle.php:541
+msgid ""
+" Choose Hover Border Color.If you leave it empty, It will set default color"
+msgstr ""
+
+#: vc_template/VC_Button.php:519 vc_template/VC_Custom-icon-with-text.php:134
+#: vc_template/VC_icon-box.php:147 vc_template/VC_icon-with-image-box.php:93
+#: vc_template/VC_image-box.php:90 vc_template/VC_interactive-banner.php:63
+#: vc_template/VC_number-box.php:117 vc_template/VC_toggle.php:566
+msgid "Button Text"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:17
+msgid "Custom Icon Box"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:30 vc_template/VC_icon-box.php:30
+#: vc_template/VC_icon-with-image-box.php:31 vc_template/VC_number-box.php:26
+msgid "Select Layouts"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:33 vc_template/VC_icon-box.php:33
+msgid "Select Icon Box layout you would like to use"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:48 vc_template/VC_counter.php:86
+msgid "Add Custom Icon"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:52
+msgid "Select Custom icon of your Custom icon box."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:59 vc_template/VC_icon-box.php:50
+msgid "Icon Alignment"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:62 vc_template/VC_icon-box.php:53
+msgid "Specify alignment of the big icon."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:82 vc_template/VC_News-Blog.php:317
+#: vc_template/VC_Portfolio.php:277 vc_template/VC_icon-box.php:110
+#: vc_template/VC_icon-with-image-box.php:58 vc_template/VC_image-box.php:40
+#: vc_template/VC_interactive-banner.php:39 vc_template/VC_number-box.php:88
+#: vc_template/VC_section-heading.php:27 vc_template/VC_testimonial.php:177
+#: vc_template/VC_video_lightbox.php:84
+msgid "Title"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:85 vc_template/VC_icon-box.php:113
+msgid "The title of your icon box."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:94
+#: vc_template/VC_call-to-action.php:26 vc_template/VC_number-box.php:74
+#: vc_template/VC_section-heading.php:34
+msgid "Subtitle"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:97
+msgid "The subtitle of your icon box."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:110 vc_template/VC_icon-box.php:123
+#: vc_template/VC_icon-with-image-box.php:70 vc_template/VC_image-box.php:66
+#: vc_template/VC_number-box.php:98
+msgid "Text Content"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:113 vc_template/VC_icon-box.php:126
+#: vc_template/VC_image-box.php:69
+msgid "Description text of the icon box."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:138 vc_template/VC_icon-box.php:151
+#: vc_template/VC_image-box.php:95 vc_template/VC_interactive-banner.php:68
+msgid "Button title of your icon box."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:150
+#: vc_template/VC_call-to-action.php:40 vc_template/VC_icon-box.php:163
+#: vc_template/VC_number-box.php:131
+msgid "Button Link"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:154 vc_template/VC_icon-box.php:167
+msgid "Optional icon link."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:216 vc_template/VC_icon-box.php:233
+#: vc_template/VC_image-box.php:195 vc_template/VC_number-box.php:228
+msgid "Title Font Size"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:220
+msgid "Enter Custom font-size(Example:20)"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:222 vc_template/VC_icon-box.php:414
+#: vc_template/VC_icon-with-image-box.php:352
+#: vc_template/VC_icon-with-image-box.php:368
+#: vc_template/VC_interactive-banner.php:157
+#: vc_template/VC_interactive-banner.php:169
+#: vc_template/VC_section-heading.php:199
+#: vc_template/VC_section-heading.php:220
+#: vc_template/VC_section-heading.php:237
+#: vc_template/VC_section-heading.php:275
+#: vc_template/VC_section-heading.php:294
+#: vc_template/VC_section-heading.php:343
+#: vc_template/VC_section-heading.php:354
+#: vc_template/VC_section-heading.php:364
+#: vc_template/VC_section-heading.php:373
+#: vc_template/VC_section-heading.php:397
+msgid "Advanced"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:233 vc_template/VC_icon-box.php:260
+#: vc_template/VC_image-box.php:218 vc_template/VC_number-box.php:252
+msgid "Text Font Size"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:236 vc_template/VC_icon-box.php:263
+#: vc_template/VC_image-box.php:221 vc_template/VC_number-box.php:255
+msgid "Select text font size."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:259 vc_template/VC_counter.php:287
+#: vc_template/VC_icon-box.php:288 vc_template/VC_icon-with-image-box.php:300
+#: vc_template/VC_image-box.php:241 vc_template/VC_interactive-banner.php:178
+#: vc_template/VC_number-box.php:297
+msgid "Title Font-weight"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:262 vc_template/VC_icon-box.php:291
+#: vc_template/VC_number-box.php:300
+msgid "Select Title font-weight."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:284 vc_template/VC_icon-box.php:313
+msgid "Select sun sub-heading font-weight."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:303 vc_template/VC_counter.php:366
+#: vc_template/VC_icon-box.php:331 vc_template/VC_interactive-banner.php:199
+msgid "Title letter-spacing"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:306 vc_template/VC_counter.php:369
+#: vc_template/VC_icon-box.php:334 vc_template/VC_interactive-banner.php:203
+msgid "Specify letter-spacing of the title"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:330 vc_template/VC_counter.php:340
+#: vc_template/VC_icon-box.php:372 vc_template/VC_number-box.php:329
+msgid "Title Custom Color"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:334 vc_template/VC_counter.php:344
+#: vc_template/VC_icon-box.php:376 vc_template/VC_number-box.php:333
+msgid " Choose a custom title color."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:343
+#: vc_template/VC_number-box.php:340
+msgid "Subtitle Custom Color"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:347
+#: vc_template/VC_number-box.php:344
+msgid " Choose a custom subtitle color."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:358 vc_template/VC_counter.php:353
+#: vc_template/VC_icon-box.php:383 vc_template/VC_number-box.php:355
+#: vc_template/VC_simple-icon-list.php:181
+msgid "Text Custom Color"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:362 vc_template/VC_counter.php:357
+#: vc_template/VC_icon-box.php:387 vc_template/VC_number-box.php:359
+#: vc_template/VC_simple-icon-list.php:185
+msgid " Choose a custom text color."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:370 vc_template/VC_icon-box.php:394
+#: vc_template/VC_icon-with-image-box.php:193
+#: vc_template/VC_interactive-banner.php:279 vc_template/VC_number-box.php:366
+msgid "Button Custom Color"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:374 vc_template/VC_icon-box.php:398
+#: vc_template/VC_icon-with-image-box.php:197
+#: vc_template/VC_interactive-banner.php:283 vc_template/VC_number-box.php:370
+msgid " Choose a custom button color."
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:383
+#: vc_template/VC_Image-Gallery.php:205 vc_template/VC_News-Blog.php:339
+#: vc_template/VC_Portfolio.php:482 vc_template/VC_clients-logos.php:206
+#: vc_template/VC_counter.php:391 vc_template/VC_custom-menu.php:60
+#: vc_template/VC_icon-box.php:420 vc_template/VC_icon-with-image-box.php:378
+#: vc_template/VC_image-box.php:297 vc_template/VC_interactive-banner.php:346
+#: vc_template/VC_number-box.php:429 vc_template/VC_section-heading.php:402
+#: vc_template/VC_simple-icon-list.php:224 vc_template/VC_table.php:101
+#: vc_template/VC_testimonial.php:280 vc_template/VC_toggle.php:547
+#: vc_template/VC_video_lightbox.php:186 vc_template/VC_working_hours.php:122
+msgid "Css"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:385
+#: vc_template/VC_Image-Gallery.php:207 vc_template/VC_News-Blog.php:341
+#: vc_template/VC_Portfolio.php:484 vc_template/VC_clients-logos.php:208
+#: vc_template/VC_counter.php:393 vc_template/VC_custom-menu.php:62
+#: vc_template/VC_icon-box.php:422 vc_template/VC_icon-with-image-box.php:380
+#: vc_template/VC_image-box.php:299 vc_template/VC_interactive-banner.php:348
+#: vc_template/VC_number-box.php:431 vc_template/VC_section-heading.php:404
+#: vc_template/VC_simple-icon-list.php:226 vc_template/VC_table.php:103
+#: vc_template/VC_testimonial.php:282 vc_template/VC_toggle.php:549
+#: vc_template/VC_video_lightbox.php:188 vc_template/VC_working_hours.php:124
+msgid "Design options"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:401
+msgid "Custom Icon Box Title"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:402
+msgid "Custom Icon Box text content"
+msgstr ""
+
+#: vc_template/VC_Custom-icon-with-text.php:411
+msgid "Custom Icon Box Subtitle"
+msgstr ""
+
+#: vc_template/VC_Image-Gallery.php:29
+msgid "Select Design Style"
+msgstr ""
+
+#: vc_template/VC_Image-Gallery.php:32
+msgid "Select Gallery design you would like to use"
+msgstr ""
+
+#: vc_template/VC_Image-Gallery.php:50
+msgid "Select Multiple Images"
+msgstr ""
+
+#: vc_template/VC_Image-Gallery.php:73 vc_template/VC_News-Blog.php:171
+#: vc_template/VC_Portfolio.php:188
+msgid "Gap"
+msgstr ""
+
+#: vc_template/VC_Image-Gallery.php:77 vc_template/VC_News-Blog.php:175
+#: vc_template/VC_Portfolio.php:192
+msgid ""
+"Select gap between grid columns(in pixels).Enter Number only, do not add "
+"'px'."
+msgstr ""
+
+#: vc_template/VC_Image-Gallery.php:148 vc_template/VC_News-Blog.php:253
+#: vc_template/VC_Portfolio.php:430 vc_template/VC_clients-logos.php:93
+#: vc_template/VC_clients-logos.php:116 vc_template/VC_testimonial.php:141
+msgid "Columns"
+msgstr ""
+
+#: vc_template/VC_Image-Gallery.php:152 vc_template/VC_News-Blog.php:257
+#: vc_template/VC_Portfolio.php:434 vc_template/VC_clients-logos.php:112
+#: vc_template/VC_clients-logos.php:133 vc_template/VC_testimonial.php:145
+msgid "Number of columns"
+msgstr ""
+
+#: vc_template/VC_Image-Gallery.php:164 vc_template/VC_News-Blog.php:268
+#: vc_template/VC_Portfolio.php:445 vc_template/VC_testimonial.php:152
+msgid "Dots"
+msgstr ""
+
+#: vc_template/VC_Image-Gallery.php:174 vc_template/VC_News-Blog.php:276
+#: vc_template/VC_Portfolio.php:453 vc_template/VC_testimonial.php:162
+msgid "Dots for navigation."
+msgstr ""
+
+#: vc_template/VC_Image-Gallery.php:185 vc_template/VC_News-Blog.php:287
+#: vc_template/VC_Portfolio.php:464
+msgid "Arrows"
+msgstr ""
+
+#: vc_template/VC_Image-Gallery.php:195 vc_template/VC_News-Blog.php:297
+#: vc_template/VC_Portfolio.php:473
+msgid "Arrows for navigation."
+msgstr ""
+
+#: vc_template/VC_Message-box.php:13
+msgid "Message Box"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:23
+msgid "Success"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:24
+msgid "Info"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:25
+msgid "Warning"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:26
+msgid "Danger"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:28
+msgid "Message Type"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:33 vc_template/VC_Pricing-box.php:50
+msgid "Box Title"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:35
+msgid "Your Message Box title"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:41
+msgid "Box Message"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:43
+msgid "Your Message Box Message Text"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:51
+msgid "Dismissible"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:52
+msgid "Not Dismissible"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:54
+msgid "Dismissible?"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:55
+msgid "To close the alert message Box."
+msgstr ""
+
+#: vc_template/VC_Message-box.php:67
+msgid "White"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:70 vc_template/VC_Message-box.php:82
+#: vc_template/VC_Message-box.php:94 vc_template/VC_blockquotes.php:89
+#: vc_template/VC_blockquotes.php:97 vc_template/VC_blockquotes.php:107
+#: vc_template/VC_blockquotes.php:117 vc_template/VC_call-to-action.php:66
+#: vc_template/VC_call-to-action.php:94 vc_template/VC_call-to-action.php:104
+#: vc_template/VC_call-to-action.php:114 vc_template/VC_call-to-action.php:135
+#: vc_template/VC_call-to-action.php:187 vc_template/VC_call-to-action.php:197
+msgid "Design"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:71
+msgid "Choose the Message box background color."
+msgstr ""
+
+#: vc_template/VC_Message-box.php:76
+msgid "Box Border"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:83
+msgid "Choose the message box border."
+msgstr ""
+
+#: vc_template/VC_Message-box.php:88
+msgid "Box Border Radius"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:91 vc_template/VC_flip-box.php:118
+#: vc_template/VC_flip-box.php:134 vc_template/VC_social-icons.php:24
+#: vc_template/VC_video_lightbox.php:63
+msgid "Theme Defaults"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:112
+msgid "Success!"
+msgstr ""
+
+#: vc_template/VC_Message-box.php:113
+msgid "This alert box indicates a successful or positive action."
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:24
+msgid "News & Blog"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:39
+msgid "Select Blog/News Style"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:56
+msgid "Blog/News Layout"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:77 vc_template/VC_Portfolio.php:104
+msgid "Select Category"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:82 vc_template/VC_Portfolio.php:109
+msgid "Select Categories. You can choose multiple categories"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:91 vc_template/VC_Portfolio.php:155
+msgid "Number of Posts to display."
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:96 vc_template/VC_Portfolio.php:159
+msgid "You can choose limited number of posts to display on page."
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:105
+msgid "Pagination Options"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:197
+msgid "Hide Date"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:209
+msgid "Hide Author"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:221 vc_template/VC_Portfolio.php:398
+#: vc_template/VC_testimonial.php:111
+msgid "Autoplay"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:229 vc_template/VC_Portfolio.php:406
+#: vc_template/VC_testimonial.php:122
+msgid "Enable/Disable Autoplay."
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:240 vc_template/VC_Portfolio.php:417
+#: vc_template/VC_testimonial.php:129
+msgid "Speed"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:243 vc_template/VC_Portfolio.php:420
+#: vc_template/VC_testimonial.php:132
+msgid "3000"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:244 vc_template/VC_Portfolio.php:421
+#: vc_template/VC_testimonial.php:134
+msgid "Choose speed for carousel transition in milliseconds (Example:300)."
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:308 vc_template/VC_Portfolio.php:268
+#: vc_template/VC_testimonial.php:168
+msgid "Sort/order your posts by a certain value."
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:310 vc_template/VC_Portfolio.php:270
+#: vc_template/VC_testimonial.php:170
+msgid "Order posts by"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:313 vc_template/VC_Portfolio.php:273
+#: vc_template/VC_testimonial.php:173
+msgid "Date"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:314 vc_template/VC_Portfolio.php:274
+#: vc_template/VC_testimonial.php:174
+msgid "None - no order"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:315 vc_template/VC_Portfolio.php:275
+#: vc_template/VC_testimonial.php:175
+msgid "Post ID"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:318 vc_template/VC_Portfolio.php:278
+#: vc_template/VC_testimonial.php:178
+msgid "Name (slug)"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:319 vc_template/VC_Portfolio.php:279
+#: vc_template/VC_testimonial.php:179
+msgid "Menu Order"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:321 vc_template/VC_News-Blog.php:333
+#: vc_template/VC_Portfolio.php:281 vc_template/VC_Portfolio.php:294
+#: vc_template/VC_testimonial.php:181 vc_template/VC_testimonial.php:193
+msgid "Order Settings"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:325 vc_template/VC_Portfolio.php:286
+#: vc_template/VC_testimonial.php:185
+msgid "Posts order."
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:327 vc_template/VC_Portfolio.php:288
+#: vc_template/VC_testimonial.php:187
+msgid "Posts order"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:330 vc_template/VC_Portfolio.php:291
+#: vc_template/VC_testimonial.php:190
+msgid "Descending (DESC)"
+msgstr ""
+
+#: vc_template/VC_News-Blog.php:331 vc_template/VC_Portfolio.php:292
+#: vc_template/VC_testimonial.php:191
+msgid "Ascending (ASC)"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:26
+msgid "Portfolio"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:60
+msgid "Animation on hover"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:73
+msgid "Show Excerpt"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:88
+msgid "Disable Item Image Hover"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:117
+msgid "Show filter"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:135
+msgid "Filter Button Layout"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:168
+msgid "Load More Options"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:200
+msgid "Color to overlay image on hover"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:302 vc_template/VC_icon-with-image-box.php:277
+msgid "Title font size"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:306
+msgid ""
+"Select Portfolio title font-size(in pixels).Enter Number only, do not add "
+"'px'."
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:312
+msgid "Title Line Height"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:316
+msgid ""
+"Select Portfolio title line-height(in pixels).Enter Number only, do not add "
+"'px'."
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:323
+msgid "Title font color"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:327
+msgid "Select Portfolio title font color"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:336
+msgid "Title text transform"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:351
+msgid "Category font size"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:355
+msgid ""
+"Select Portfolio category font-size(in pixels).Enter Number only, do not add "
+"'px'."
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:361
+msgid "Category Line height"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:365
+msgid ""
+"Select Portfolio category line-height(in pixels).Enter Number only, do not "
+"add 'px'."
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:372
+msgid "Category font color"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:376
+msgid "Select Portfolio category font color"
+msgstr ""
+
+#: vc_template/VC_Portfolio.php:384
+msgid "Category text transform"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:13
+msgid "Pricing Box"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:18
+msgid "Product box with prices"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:23 vc_template/VC_testimonial.php:250
+#: vc_template/VC_testimonial.php:262 vc_template/VC_testimonial.php:272
+#: vc_template/VC_video_lightbox.php:33
+msgid "Style"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:27
+msgid "Style1"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:28
+msgid "Style2"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:30
+msgid "Choose style for your pricing boxes."
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:36 vc_template/VC_icon-with-image-box.php:48
+#: vc_template/VC_image-box.php:29
+msgid "Add Image"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:39 vc_template/VC_image-box.php:33
+msgid "Select image of your image box."
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:52
+msgid "Your Pricing Box title"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:58
+msgid "Box Subtitle"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:60
+msgid "Your Pricing Box subtitle"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:68
+msgid "Price Value"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:70
+msgid "$"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:71
+msgid "Currency or other value prices. e.g. $"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:78
+msgid "Price"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:80
+msgid "Pricing Box price"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:86
+msgid "Period"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:88
+msgid "Pricing Box period"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:93
+msgid "Features"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:96
+msgid ""
+"Enter features here. Divide each feature with linebreaks (Enter). You can "
+"also use FontAwesome icons like fa-close for red cross icon or fa-check for "
+"green check icon!"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:100 vc_template/VC_flip-box.php:205
+#: vc_template/VC_flip-box.php:235
+msgid "Add Icon?"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:106
+msgid "Display an icon before each feature."
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:110
+msgid "Icon before list item"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:127
+msgid "Not Featured"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:128
+msgid "Featured"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:130
+msgid "Featured?"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:131
+msgid "Make the box stand out from the crew."
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:137 vc_template/VC_blockquotes.php:82
+#: vc_template/VC_testimonial.php:30
+msgid "Content Alignment"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:145
+msgid "Choose content alignment position"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:152
+msgid "Text visible on the box button"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:157
+msgid "Button URL"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:159
+msgid "Button URL, start with http://"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:171 vc_template/VC_call-to-action.php:73
+#: vc_template/VC_interactive-banner.php:228
+msgid "Button Border Radius"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:254
+msgid "Standard"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:255
+msgid "Most Popular"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:257
+msgid "Buy Now"
+msgstr ""
+
+#: vc_template/VC_Pricing-box.php:258
+msgid "Month"
+msgstr ""
+
+#: vc_template/VC_blockquotes.php:13
+msgid "Blockquotes"
+msgstr ""
+
+#: vc_template/VC_blockquotes.php:22
+msgid "Cite"
+msgstr ""
+
+#: vc_template/VC_blockquotes.php:29
+msgid "Role"
+msgstr ""
+
+#: vc_template/VC_blockquotes.php:36
+msgid "Quote"
+msgstr ""
+
+#: vc_template/VC_blockquotes.php:98 vc_template/VC_blockquotes.php:108
+msgid "#6f6f6f"
+msgstr ""
+
+#: vc_template/VC_blockquotes.php:105
+msgid "Cite Color"
+msgstr ""
+
+#: vc_template/VC_blockquotes.php:118
+msgid "#f7f7f7"
+msgstr ""
+
+#: vc_template/VC_blockquotes.php:132
+msgid "John Doe"
+msgstr ""
+
+#: vc_template/VC_blockquotes.php:133
+msgid "Businessman"
+msgstr ""
+
+#: vc_template/VC_blockquotes.php:134
+msgid ""
+"Great things in business are never done by one person. They are done by a "
+"team of people."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:10
+msgid "Call to Action"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:19
+msgid "Heading"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:21 vc_template/VC_call-to-action.php:379
+msgid "This is the main heading."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:22
+msgid "Enter your Call to Action Heading"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:28
+msgid "I'm a subtitle, feel free to change me!"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:29
+msgid "A description text of your Call to Action element."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:33
+msgid "Button Title"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:35
+msgid "Enter label for the button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:36
+msgid "Click me!"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:42 vc_template/VC_call-to-action.php:54
+msgid "URL for the button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:46
+msgid "Button 2 Title"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:48
+msgid "Enter label for the secondary button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:52
+msgid "Button 2 Link"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:63 vc_template/VC_counter.php:140
+#: vc_template/VC_flip-box.php:193 vc_template/VC_image-box.php:124
+#: vc_template/VC_number-box.php:43 vc_template/VC_section-heading.php:41
+msgid "Alignment"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:65
+msgid "Choose the content alignment."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:90
+msgid "Heading Font-size"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:92 vc_template/VC_call-to-action.php:102
+msgid "Enter custom font-size (example:20)"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:100
+msgid "Sub-Heading Font-size"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:112
+msgid "Heading Font-weight"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:115
+msgid "Select Heading font-weight."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:133
+msgid "Sub-Heading Font-weight"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:136
+msgid "Select Sub-Heading font-weight."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:155 vc_template/VC_section-heading.php:271
+msgid "Heading Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:159
+msgid "Color of your Call to Action heading color."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:166
+msgid "Sub-heading 1 Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:170
+msgid "Color of your Call to Action sub-heading color."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:179 vc_template/VC_section-heading.php:45
+#: vc_template/VC_section-heading.php:58 vc_template/VC_section-heading.php:70
+#: vc_template/VC_section-heading.php:84 vc_template/VC_social-icons.php:39
+#: vc_template/VC_social-icons.php:67 vc_template/VC_social-icons.php:80
+msgid "Select"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:181
+msgid "None (you can set the background in the row settings)"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:182
+msgid "Custom - color picker"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:186
+msgid "select call to action background color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:192 vc_template/VC_flip-box.php:63
+msgid "Custom Background Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:196
+msgid "Select a custom color for your background."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:204
+msgid "Button 1 Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:208 vc_template/VC_call-to-action.php:232
+msgid "Color of your Call to Action button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:216
+msgid "Button 1 Hover Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:220
+msgid "Hover Color of your Call to Action button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:228
+msgid "Button 1 background Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:238
+msgid "Button 1 hover background Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:242
+msgid "Hover Background Color of your Call to Action button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:250
+msgid "Button 1 border Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:254 vc_template/VC_call-to-action.php:334
+msgid "Border color of your Call to Action button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:261
+msgid "Button 1 Hover border Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:265 vc_template/VC_call-to-action.php:345
+msgid "Hover Border color of your Call to Action button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:270
+msgid "Button 1 CSS Class"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:276
+msgid "Button 1"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:277
+msgid "Optional: add a custom CSS class to the first button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:284
+msgid "Button 2 Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:288 vc_template/VC_call-to-action.php:312
+msgid "Color of your Call to Action secondary button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:296
+msgid "Button 2 Hover Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:300
+msgid "Hover Color of your Call to Action secondary button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:308
+msgid "Button 2 background Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:319
+msgid "Button 2 hover background Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:323
+msgid "Hover Background Color of your Call to Action secondary button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:330
+msgid "Button 2 border Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:341
+msgid "Button 2 Hover border Color"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:350
+msgid "Button 2 CSS Class"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:356
+msgid "Button 2"
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:357
+msgid "Optional: add a custom CSS class to the second button."
+msgstr ""
+
+#: vc_template/VC_call-to-action.php:378
+msgid "I'm a description text, feel free to change me!"
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:16
+msgid "Clients Logos"
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:27
+msgid "Images"
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:32
+msgid "Select images from media library."
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:36
+msgid "On click"
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:41
+msgid "Do nothing"
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:42
+msgid "Open custom link"
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:44
+msgid "Define action for onclick event if needed."
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:48
+msgid "Custom links"
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:52
+msgid "Enter links for each logo here. Divide links with linebreaks (Enter) . "
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:62
+msgid "Open link in a new tab?"
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:70
+msgid "Select if you want the link to open in a new browser tab/window."
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:81
+msgid "Type"
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:86
+msgid "Carousel"
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:87
+msgid "Static Grid"
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:89
+msgid "Choose a type of displaying your logos."
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:139
+msgid "Bullet Navigation"
+msgstr ""
+
+#: vc_template/VC_clients-logos.php:147
+msgid "Enable or disable the carousel bullet navigation"
+msgstr ""
+
+#: vc_template/VC_counter.php:13
+msgid "Counter-Box"
+msgstr ""
+
+#: vc_template/VC_counter.php:24
+msgid "Counter Title"
+msgstr ""
+
+#: vc_template/VC_counter.php:27
+msgid "Your Counter title."
+msgstr ""
+
+#: vc_template/VC_counter.php:32
+msgid "Number value"
+msgstr ""
+
+#: vc_template/VC_counter.php:35
+msgid "Value of the counter number."
+msgstr ""
+
+#: vc_template/VC_counter.php:42
+msgid "Content"
+msgstr ""
+
+#: vc_template/VC_counter.php:45
+msgid "Description text of the counter box."
+msgstr ""
+
+#: vc_template/VC_counter.php:57
+msgid "Enable icon?"
+msgstr ""
+
+#: vc_template/VC_counter.php:58
+msgid "Enable icon in the counter."
+msgstr ""
+
+#: vc_template/VC_counter.php:64
+msgid "Select Icon"
+msgstr ""
+
+#: vc_template/VC_counter.php:67
+msgid "Select Counter Box Icon layout you would like to use"
+msgstr ""
+
+#: vc_template/VC_counter.php:90
+msgid "Select Custom icon of your Counter box."
+msgstr ""
+
+#: vc_template/VC_counter.php:104
+msgid "Select Counter Box layout you would like to use"
+msgstr ""
+
+#: vc_template/VC_counter.php:143
+msgid "Specify alignment of the counter section."
+msgstr ""
+
+#: vc_template/VC_counter.php:161
+msgid "Title text transform."
+msgstr ""
+
+#: vc_template/VC_counter.php:227
+msgid "Icon Font-size"
+msgstr ""
+
+#: vc_template/VC_counter.php:230
+msgid "Your Counter icon font-size. Example:30"
+msgstr ""
+
+#: vc_template/VC_counter.php:244 vc_template/VC_number-box.php:199
+msgid "Number Font-size"
+msgstr ""
+
+#: vc_template/VC_counter.php:247
+msgid "Your Counter number font-size. Example:30"
+msgstr ""
+
+#: vc_template/VC_counter.php:254 vc_template/VC_interactive-banner.php:151
+#: vc_template/VC_number-box.php:213
+msgid "Title Font-size"
+msgstr ""
+
+#: vc_template/VC_counter.php:257
+msgid "Your Counter title font-size. Example:20"
+msgstr ""
+
+#: vc_template/VC_counter.php:265 vc_template/VC_number-box.php:274
+msgid "Number Font-weight"
+msgstr ""
+
+#: vc_template/VC_counter.php:268
+msgid "Select Counter number font-weight."
+msgstr ""
+
+#: vc_template/VC_counter.php:290
+msgid "Select Counter title font-weight."
+msgstr ""
+
+#: vc_template/VC_counter.php:309 vc_template/VC_icon-box.php:359
+#: vc_template/VC_icon-with-image-box.php:323
+#: vc_template/VC_section-heading.php:393
+#: vc_template/VC_simple-icon-list.php:168
+msgid "Icon Color"
+msgstr ""
+
+#: vc_template/VC_counter.php:313
+msgid " Choose a color for your counter."
+msgstr ""
+
+#: vc_template/VC_counter.php:326 vc_template/VC_image-box.php:275
+#: vc_template/VC_number-box.php:318
+msgid "Number Color"
+msgstr ""
+
+#: vc_template/VC_counter.php:330
+msgid " Choose a custom number color."
+msgstr ""
+
+#: vc_template/VC_custom-menu.php:25
+msgid "Custom-menu"
+msgstr ""
+
+#: vc_template/VC_custom-menu.php:36
+msgid "Menu"
+msgstr ""
+
+#: vc_template/VC_custom-menu.php:39
+msgid "select menu"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:17
+msgid "Flip Box"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:31 vc_template/VC_flip-box.php:150
+msgid "Select image from media library."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:40 vc_template/VC_flip-box.php:159
+msgid "Dark 10%"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:41 vc_template/VC_flip-box.php:160
+msgid "Dark 20%"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:43 vc_template/VC_flip-box.php:162
+msgid "Dark 40%"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:45 vc_template/VC_flip-box.php:164
+msgid "Dark 60%"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:49 vc_template/VC_flip-box.php:168
+msgid "Light 20%"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:50 vc_template/VC_flip-box.php:169
+msgid "Light 40%"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:51 vc_template/VC_flip-box.php:170
+msgid "Light 60%"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:58 vc_template/VC_flip-box.php:179
+msgid ""
+"Set a background overlay to darken or lighten the background image and "
+"improve the text visibility."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:65
+msgid "Select a custom box background color."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:70
+msgid "Primary title"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:72 vc_template/VC_flip-box.php:90
+msgid "Hover Box Element"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:73
+msgid "Enter text for heading line."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:79
+msgid "Primary text"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:81 vc_template/VC_flip-box.php:107
+msgid ""
+"Click edit button to change this text. Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, "
+"pulvinar dapibus leo."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:82
+msgid "Primary part text."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:87
+msgid "Hover title"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:91 vc_template/VC_flip-box.php:100
+#: vc_template/VC_flip-box.php:108 vc_template/VC_flip-box.php:148
+#: vc_template/VC_flip-box.php:173 vc_template/VC_flip-box.php:187
+#: vc_template/VC_flip-box.php:238 vc_template/VC_flip-box.php:250
+msgid "Hover Block"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:96
+msgid "Hover title alignment"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:101
+msgid "Select text alignment for hovered title."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:105
+msgid "Hover text"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:109
+msgid "Hover part text."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:115
+msgid "Front Box Color Scheme"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:119 vc_template/VC_flip-box.php:135
+#: vc_template/VC_video_lightbox.php:121
+msgid "White Scheme"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:120 vc_template/VC_flip-box.php:136
+#: vc_template/VC_video_lightbox.php:122
+msgid "Dark Scheme"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:122 vc_template/VC_flip-box.php:138
+msgid ""
+"White Scheme - all text styled to white color, recommended for dark "
+"backgrounds."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:123
+msgid "Front Styling"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:131
+msgid "Hover State Color Scheme"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:139
+msgid "Hover Styling"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:145
+msgid "Hover Background Image"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:155
+msgid "Hover Background Image Overlay"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:186
+msgid "Select custom background color."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:195
+msgid "Select block alignment."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:211 vc_template/VC_flip-box.php:243
+msgid "Display icon above the special heading."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:267
+msgid "Element ID"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:269
+#, php-format
+msgid ""
+"Enter element ID (Note: make sure it is unique and valid according to <a "
+"href=\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+
+#: vc_template/VC_flip-box.php:273 vc_template/VC_section-heading.php:179
+#: vc_template/VC_working_hours.php:114
+msgid "Extra class name"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:319 vc_template/VC_social-icons.php:151
+#: vc_template/VC_team.php:145
+msgid "CSS box"
+msgstr ""
+
+#: vc_template/VC_flip-box.php:321 vc_template/VC_social-icons.php:153
+#: vc_template/VC_team.php:147
+msgid "Design Options"
+msgstr ""
+
+#: vc_template/VC_google-map.php:13
+msgid "Google Map"
+msgstr ""
+
+#: vc_template/VC_google-map.php:24
+msgid "Map Address"
+msgstr ""
+
+#: vc_template/VC_google-map.php:27
+msgid ""
+"Enter the map address i.e. \"Canal St, New York, NY 10013, USA\". Or in lat,"
+"long format: 40.719175,-74.0015925"
+msgstr ""
+
+#: vc_template/VC_google-map.php:32
+msgid "Map Height"
+msgstr ""
+
+#: vc_template/VC_google-map.php:35
+msgid "Height of the map element in pixels."
+msgstr ""
+
+#: vc_template/VC_google-map.php:40
+msgid "Map Zoom"
+msgstr ""
+
+#: vc_template/VC_google-map.php:43
+msgid "Choose the map zoom. Default value: 15"
+msgstr ""
+
+#: vc_template/VC_google-map.php:47
+msgid "Map Style"
+msgstr ""
+
+#: vc_template/VC_google-map.php:50
+msgid "Regular Colors"
+msgstr ""
+
+#: vc_template/VC_google-map.php:51 vc_template/VC_social-icons.php:27
+msgid "Dark"
+msgstr ""
+
+#: vc_template/VC_google-map.php:52
+msgid "Light"
+msgstr ""
+
+#: vc_template/VC_google-map.php:53
+msgid "Grayscale"
+msgstr ""
+
+#: vc_template/VC_google-map.php:54
+msgid "Dark Green"
+msgstr ""
+
+#: vc_template/VC_google-map.php:55
+msgid "Light Dream"
+msgstr ""
+
+#: vc_template/VC_google-map.php:58 vc_template/VC_google-map.php:68
+msgid "Choose a style for your map."
+msgstr ""
+
+#: vc_template/VC_google-map.php:62
+msgid "Mouse scroll for zoom"
+msgstr ""
+
+#: vc_template/VC_google-map.php:125
+msgid "Map info panel settings"
+msgstr ""
+
+#: vc_template/VC_google-map.php:127 vc_template/VC_google-map.php:142
+#: vc_template/VC_google-map.php:156 vc_template/VC_google-map.php:170
+#: vc_template/VC_google-map.php:184 vc_template/VC_google-map.php:198
+#: vc_template/VC_google-map.php:217
+msgid "Business info"
+msgstr ""
+
+#: vc_template/VC_google-map.php:129
+msgid "Hide business info panel"
+msgstr ""
+
+#: vc_template/VC_google-map.php:130
+msgid "Left aligned"
+msgstr ""
+
+#: vc_template/VC_google-map.php:131
+msgid "Right aligned"
+msgstr ""
+
+#: vc_template/VC_google-map.php:139
+msgid "Panel title"
+msgstr ""
+
+#: vc_template/VC_google-map.php:143
+msgid "Enter panel title."
+msgstr ""
+
+#: vc_template/VC_google-map.php:153
+msgid "Address"
+msgstr ""
+
+#: vc_template/VC_google-map.php:157
+msgid "Enter business address."
+msgstr ""
+
+#: vc_template/VC_google-map.php:167
+msgid "Email"
+msgstr ""
+
+#: vc_template/VC_google-map.php:171
+msgid "Enter business email."
+msgstr ""
+
+#: vc_template/VC_google-map.php:185
+msgid "Enter business phone."
+msgstr ""
+
+#: vc_template/VC_google-map.php:195
+msgid "Opening hours title"
+msgstr ""
+
+#: vc_template/VC_google-map.php:199
+msgid "Enter opening hours title text."
+msgstr ""
+
+#: vc_template/VC_google-map.php:209 vc_template/VC_working_hours.php:24
+msgid "Opening hours schedule"
+msgstr ""
+
+#: vc_template/VC_google-map.php:225 vc_template/VC_working_hours.php:38
+msgid "Day name"
+msgstr ""
+
+#: vc_template/VC_google-map.php:232 vc_template/VC_working_hours.php:45
+msgid "Day opening/closing hours"
+msgstr ""
+
+#: vc_template/VC_google-map.php:317
+msgid ""
+"There was an error geocoding your address location. Please insert address in "
+"a lat,lng format."
+msgstr ""
+
+#: vc_template/VC_google-map.php:328
+msgid "Error: no location lat and/or long data found"
+msgstr ""
+
+#: vc_template/VC_google-map.php:409
+msgid "Address:"
+msgstr ""
+
+#: vc_template/VC_google-map.php:412
+msgid "Phone:"
+msgstr ""
+
+#: vc_template/VC_google-map.php:415
+msgid "Email:"
+msgstr ""
+
+#: vc_template/VC_icon-box.php:17
+msgid "Icon Box"
+msgstr ""
+
+#: vc_template/VC_icon-box.php:88 vc_template/VC_section-heading.php:371
+#: vc_template/VC_simple-icon-list.php:79
+msgid "Icon Size"
+msgstr ""
+
+#: vc_template/VC_icon-box.php:91 vc_template/VC_simple-icon-list.php:82
+msgid "Specify size of the icon."
+msgstr ""
+
+#: vc_template/VC_icon-box.php:236 vc_template/VC_image-box.php:198
+#: vc_template/VC_number-box.php:231
+msgid "Select title font size."
+msgstr ""
+
+#: vc_template/VC_icon-box.php:363 vc_template/VC_icon-with-image-box.php:327
+msgid " Choose a color for your icon box."
+msgstr ""
+
+#: vc_template/VC_icon-box.php:410 vc_template/VC_icon-with-image-box.php:348
+msgid "Icon hover color"
+msgstr ""
+
+#: vc_template/VC_icon-box.php:413 vc_template/VC_icon-with-image-box.php:351
+msgid "Select Icon hover color."
+msgstr ""
+
+#: vc_template/VC_icon-box.php:437
+msgid "Icon Box Title"
+msgstr ""
+
+#: vc_template/VC_icon-box.php:438
+msgid "Icon Box text content, feel free to change it!"
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:18
+msgid "Icon With Image Box"
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:34
+msgid "Select layout you would like to use"
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:52
+msgid "Select image of your icon with image box."
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:62
+msgid "The title of your icon with image box."
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:73
+msgid "Description text of the icon with image box."
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:82 vc_template/VC_image-box.php:78
+#: vc_template/VC_interactive-banner.php:51
+msgid "Enable Button"
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:97
+msgid "Button title of your icon with image box."
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:196
+#: vc_template/VC_icon-with-image-box.php:218
+#: vc_template/VC_icon-with-image-box.php:326
+#: vc_template/VC_icon-with-image-box.php:350
+#: vc_template/VC_interactive-banner.php:282
+#: vc_template/VC_interactive-banner.php:299 vc_template/VC_number-box.php:369
+#: vc_template/VC_number-box.php:386
+msgid "#fff"
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:215
+#: vc_template/VC_interactive-banner.php:296 vc_template/VC_number-box.php:383
+msgid "Button Custom Hover Color"
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:219
+#: vc_template/VC_interactive-banner.php:300 vc_template/VC_number-box.php:387
+msgid " Choose a custom button hover color."
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:236
+#: vc_template/VC_interactive-banner.php:313 vc_template/VC_number-box.php:399
+msgid "Button Background Color"
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:240
+#: vc_template/VC_interactive-banner.php:317 vc_template/VC_number-box.php:403
+msgid " Choose a custom button background color."
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:256
+#: vc_template/VC_interactive-banner.php:330 vc_template/VC_number-box.php:415
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:260
+#: vc_template/VC_interactive-banner.php:334 vc_template/VC_number-box.php:419
+msgid " Choose a custom button background hover color."
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:281
+msgid "Select title font-size(in pixels).Enter Number only, do not add 'px'."
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:289
+msgid "Title letter spacing"
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:293
+msgid "Select title line-height(in pixels).Enter Number only, do not add 'px'."
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:303 vc_template/VC_image-box.php:244
+msgid "Select Image box title font-weight."
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:335
+#: vc_template/VC_simple-icon-list.php:193
+msgid "Icon Background Color"
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:339
+#: vc_template/VC_simple-icon-list.php:197
+msgid " Choose a custom icon background color."
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:364
+msgid "Icon Background hover color"
+msgstr ""
+
+#: vc_template/VC_icon-with-image-box.php:367
+msgid "Select Icon Background hover color."
+msgstr ""
+
+#: vc_template/VC_image-box.php:17
+msgid "Image Box"
+msgstr ""
+
+#: vc_template/VC_image-box.php:45
+msgid "The title of your image box."
+msgstr ""
+
+#: vc_template/VC_image-box.php:53
+msgid "Number Before Title"
+msgstr ""
+
+#: vc_template/VC_image-box.php:58
+msgid "Number before title of your image box."
+msgstr ""
+
+#: vc_template/VC_image-box.php:127
+msgid "Specify alignment of the image box."
+msgstr ""
+
+#: vc_template/VC_image-box.php:268
+msgid " Choose Title Color.If you leave it empty, It will set default color"
+msgstr ""
+
+#: vc_template/VC_image-box.php:279
+msgid " Choose Number Color.If you leave it empty, It will set default color"
+msgstr ""
+
+#: vc_template/VC_image-box.php:310
+msgid "Image Box Title"
+msgstr ""
+
+#: vc_template/VC_image-box.php:311
+msgid "Image Box text content, feel free to change it!"
+msgstr ""
+
+#: vc_template/VC_interactive-banner.php:16
+msgid "Interactive Banner"
+msgstr ""
+
+#: vc_template/VC_interactive-banner.php:28
+msgid "Banner Image"
+msgstr ""
+
+#: vc_template/VC_interactive-banner.php:32
+msgid "Select a banner image."
+msgstr ""
+
+#: vc_template/VC_interactive-banner.php:44
+msgid "Intreractive banner title"
+msgstr ""
+
+#: vc_template/VC_interactive-banner.php:155
+#: vc_template/VC_interactive-banner.php:167
+msgid "Enter custom title font-size (example:20)"
+msgstr ""
+
+#: vc_template/VC_interactive-banner.php:156
+msgid "19"
+msgstr ""
+
+#: vc_template/VC_interactive-banner.php:163
+msgid "Title line-Height"
+msgstr ""
+
+#: vc_template/VC_interactive-banner.php:168
+msgid "25"
+msgstr ""
+
+#: vc_template/VC_interactive-banner.php:181
+msgid "Select title font-weight."
+msgstr ""
+
+#: vc_template/VC_interactive-banner.php:255
+msgid "Button Font-weight"
+msgstr ""
+
+#: vc_template/VC_interactive-banner.php:258
+msgid "Select Image box Button Text font-weight."
+msgstr ""
+
+#: vc_template/VC_number-box.php:14
+msgid "Number Box"
+msgstr ""
+
+#: vc_template/VC_number-box.php:29
+msgid "Select Number Box layout you would like to use"
+msgstr ""
+
+#: vc_template/VC_number-box.php:46
+msgid "Specify alignment of the number box."
+msgstr ""
+
+#: vc_template/VC_number-box.php:63
+msgid "Enter Number"
+msgstr ""
+
+#: vc_template/VC_number-box.php:66
+msgid "Enter Number of your number box."
+msgstr ""
+
+#: vc_template/VC_number-box.php:77
+msgid "The subtitle of your number box."
+msgstr ""
+
+#: vc_template/VC_number-box.php:91
+msgid "The title of your number box."
+msgstr ""
+
+#: vc_template/VC_number-box.php:101
+msgid "Description text of the number box."
+msgstr ""
+
+#: vc_template/VC_number-box.php:121
+msgid "Button title of your number box."
+msgstr ""
+
+#: vc_template/VC_number-box.php:135
+msgid "Optional number link."
+msgstr ""
+
+#: vc_template/VC_number-box.php:202
+msgid "Enter Number font-size. Example:30"
+msgstr ""
+
+#: vc_template/VC_number-box.php:216
+msgid "Enter title font-size. Example:20"
+msgstr ""
+
+#: vc_template/VC_number-box.php:277
+msgid "Select number font-weight."
+msgstr ""
+
+#: vc_template/VC_number-box.php:322
+msgid " Choose a color for your number box."
+msgstr ""
+
+#: vc_template/VC_number-box.php:445
+msgid "Number Box Title"
+msgstr ""
+
+#: vc_template/VC_number-box.php:446
+msgid "Number Box text content, feel free to change it!"
+msgstr ""
+
+#: vc_template/VC_number-box.php:461
+msgid "Number Box Subtitle"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:17
+msgid "Section Heading"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:29
+msgid "Main heading text."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:36
+msgid "Smaller text visible below the Title."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:43
+msgid "Set alignment for the special heading texts."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:54
+msgid "Subtitle Position"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:56
+msgid "Select Subtitle on top or bottom"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:59
+msgid "subtitle on top"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:60
+msgid "subtitle on bottom"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:66 vc_template/VC_simple-icon-list.php:98
+msgid "Border"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:68
+msgid ""
+"Border for the special heading. Below - displayed below the heading. Inline "
+"- line is displayed next to the heading."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:71
+msgid "Below the heading"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:72
+msgid "Inline border - next to the heading"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:73
+msgid "Inline Double border - next to the heading"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:80
+msgid "Border Style"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:82
+msgid "Select border style"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:85
+msgid "Solid"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:86
+msgid "dashed"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:99
+msgid "Special heading top margin. Leave blank for defaults."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:106
+msgid "Special heading bottom margin. Leave blank for defaults"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:187
+msgid "Heading HTML Tag"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:198
+msgid "Select a HTML tag for the main heading."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:205
+msgid "Heading Font Weight"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:219
+msgid "Font weight of the Title."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:229
+msgid "Heading Font Transform"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:234
+msgid "Uppercase"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:236
+msgid "Text transform attribute for the Title."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:243
+msgid "Heading letter-spacing"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:246
+msgid "Specify letter-spacing of the heading"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:274
+msgid "Select the heading text color."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:281
+msgid "Subtitle Font Size"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:293
+msgid "Size of the subtitle font."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:300
+msgid "Subtitle letter-spacing"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:303
+msgid "Specify letter-spacing of the subtitle"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:328
+msgid "Subtitle Font Weight"
+msgstr ""
+
+#: vc_template/VC_section-heading.php:342
+msgid "Font weight of the Subtitle."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:353
+msgid "Select the subtitle text color."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:363
+msgid "Select the border color."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:374
+msgid "Select size of the icon."
+msgstr ""
+
+#: vc_template/VC_section-heading.php:396
+msgid "Select the icon color."
+msgstr ""
+
+#: vc_template/VC_simple-icon-list.php:16
+msgid "Simple Icon List"
+msgstr ""
+
+#: vc_template/VC_simple-icon-list.php:46
+msgid "List Items"
+msgstr ""
+
+#: vc_template/VC_simple-icon-list.php:49
+msgid "Enter list items here. Divide each item with linebreaks (Enter)."
+msgstr ""
+
+#: vc_template/VC_simple-icon-list.php:61
+msgid "Choose a style of icons in the list."
+msgstr ""
+
+#: vc_template/VC_simple-icon-list.php:101
+msgid "Enable/disable 1px solid border between list elements."
+msgstr ""
+
+#: vc_template/VC_simple-icon-list.php:172
+msgid " Choose a color for your list icon."
+msgstr ""
+
+#: vc_template/VC_simple-icon-list.php:210
+msgid "Icon Outline Color"
+msgstr ""
+
+#: vc_template/VC_simple-icon-list.php:214
+msgid " Choose a custom icon outline color."
+msgstr ""
+
+#: vc_template/VC_simple-icon-list.php:239
+msgid "List Item 1,List Item 2,List Item 3"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:20
+msgid "Color Style"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:25
+msgid "Outline"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:26
+msgid "Grey"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:28
+msgid "Colorful"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:30
+msgid "Choose a color style for your icons."
+msgstr ""
+
+#: vc_template/VC_social-icons.php:40 vc_template/VC_video_lightbox.php:65
+msgid "Round"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:41
+msgid "Circle"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:42 vc_template/VC_video_lightbox.php:64
+msgid "Square"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:44
+msgid "Choose a border radius of your icons."
+msgstr ""
+
+#: vc_template/VC_social-icons.php:49
+msgid "Size"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:53
+msgid "Select size"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:54
+msgid "Small"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:55
+msgid "Regular"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:56
+msgid "Large"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:58
+msgid "Social icons size."
+msgstr ""
+
+#: vc_template/VC_social-icons.php:63
+msgid "Hover Effect"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:68
+msgid "Slide Up"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:71
+msgid "Choose a hover effect for your icons."
+msgstr ""
+
+#: vc_template/VC_social-icons.php:76
+msgid "Icons Alignment"
+msgstr ""
+
+#: vc_template/VC_social-icons.php:85
+msgid "Choose the alignment of social icons."
+msgstr ""
+
+#: vc_template/VC_social-icons.php:157
+msgid "Social Icons"
+msgstr ""
+
+#: vc_template/VC_table.php:14
+msgid "Table"
+msgstr ""
+
+#: vc_template/VC_table.php:25
+msgid "Table layout"
+msgstr ""
+
+#: vc_template/VC_table.php:28
+msgid "Select table layout you would like to use"
+msgstr ""
+
+#: vc_template/VC_table.php:43
+msgid "Table content"
+msgstr ""
+
+#: vc_template/VC_table.php:46
+msgid ""
+"<p class='xyz'>I am test text block. Click edit button to change this text.</"
+"p>"
+msgstr ""
+
+#: vc_template/VC_team.php:21
+msgid "Person Name"
+msgstr ""
+
+#: vc_template/VC_team.php:24
+msgid "Full name of the person."
+msgstr ""
+
+#: vc_template/VC_team.php:33
+msgid "Enter person position i.e. Designer."
+msgstr ""
+
+#: vc_template/VC_team.php:38
+msgid "Person Image"
+msgstr ""
+
+#: vc_template/VC_team.php:41
+msgid "Select a person image."
+msgstr ""
+
+#: vc_template/VC_team.php:60
+msgid "Enable Popup?"
+msgstr ""
+
+#: vc_template/VC_team.php:69
+msgid "Popup Biography"
+msgstr ""
+
+#: vc_template/VC_team.php:72
+msgid "Popup short biography."
+msgstr ""
+
+#: vc_template/VC_team.php:137
+msgid "Social Profile"
+msgstr ""
+
+#: vc_template/VC_team.php:151
+msgid "Team Members"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:8
+msgid "Testimonials"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:19
+msgid "Select Testimonial Layout"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:46
+msgid "Testimonial Categories"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:49
+msgid "Select testimonial categories to be displayed. Leave blank for all."
+msgstr ""
+
+#: vc_template/VC_testimonial.php:54
+msgid "Number of posts to show"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:200
+msgid "Testimonial Font Color"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:204
+msgid ""
+" Choose Testimonial Font Color.If you leave it empty, It will set theme color"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:212
+msgid "Title Font Color"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:216
+msgid " Choose Title Font Color.If you leave it empty, It will set theme color"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:225
+msgid "Designation Font Color"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:229
+msgid ""
+" Choose Designation Font Color.If you leave it empty, It will set theme color"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:235
+msgid "Content Background Color"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:244
+msgid "Testimonial Text Font Size"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:248
+msgid "Enter text font-size (example:20)"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:256
+msgid "Testimonial Text Line-Height"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:260
+msgid "Enter text line-height (example:20)"
+msgstr ""
+
+#: vc_template/VC_testimonial.php:270
+msgid "Enable Testimonial Text Italic"
+msgstr ""
+
+#: vc_template/VC_toggle.php:26
+msgid "View More Toggle"
+msgstr ""
+
+#: vc_template/VC_toggle.php:391
+msgid "Open on load "
+msgstr ""
+
+#: vc_template/VC_toggle.php:393
+msgid "Tab on or off"
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:14
+msgid "Video Lightbox"
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:24
+msgid "Video link"
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:28
+#, php-format
+msgid "Link to the video. More about supported formats at %s."
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:37
+msgid "Text and Icon"
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:38
+msgid "Image and Icon"
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:40 vc_template/VC_video_lightbox.php:124
+msgid ""
+"White Scheme - all text styled to white color, recommended for dark "
+"backgrounds. Custom - choose your own heading and text color."
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:44
+msgid "Placeholder Image"
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:48
+msgid "Select a video placeholder image."
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:67
+msgid "Select a border radius for the cover image."
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:72
+msgid "Box Shadow"
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:79
+msgid "Enable or disable a box shadow around the cover image."
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:89
+msgid "Title of the element."
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:100
+msgid "Description"
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:105
+msgid "Description of the lightbox video."
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:117
+msgid "Text Color Scheme"
+msgstr ""
+
+#: vc_template/VC_video_lightbox.php:236
+msgid "Please select a cover image."
+msgstr ""
+
+#: vc_template/VC_working_hours.php:13 vc_template/VC_working_hours.php:18
+msgid "Working Hours"
+msgstr ""
+
+#: vc_template/VC_working_hours.php:60
+msgid " Choose a text color for your working hours."
+msgstr ""
+
+#: vc_template/VC_working_hours.php:71
+msgid " Choose a border color for your working hours."
+msgstr ""
+
+#: vc_template/VC_working_hours.php:117
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""

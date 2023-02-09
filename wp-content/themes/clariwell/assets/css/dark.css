@@ -1,0 +1,66 @@
+/* Citta Theme Dark Skin */
+
+body,
+p {
+   color: #a0a0a0;
+}
+
+html,
+body,
+.vc_row:not(.vc_inner),
+#main-content-wrapper {
+   background-color: #161616;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a:hover {
+   color: #fff;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a {
+   color: #fff;
+}
+
+.woocommerce table.shop_table th,
+.cart-collaterals h2,
+.cart_totals tr th,
+.cart-collaterals h2 a,
+.text-black {
+   color: #fff;
+}
+
+a,
+.text-extra-dark-gray,
+td.product-name a,
+.project-details-list .detail-value {
+   color: #a0a0a0;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="color"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="email"],
+input[type="number"],
+input[type="range"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+input[type="month"],
+input[type="week"],
+textarea {
+   border: 1px solid #464646;
+   background: #161616;
+}

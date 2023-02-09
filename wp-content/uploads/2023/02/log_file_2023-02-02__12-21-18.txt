@@ -1,0 +1,109 @@
+
+---Downloaded files---
+The import files for: Home-5 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress/Clariwell
+Data file = C:\xampp\htdocs\wordpress\Clariwell/wp-content/themes/clariwell/demos/home-5/home-5.xml
+Widget file = C:\xampp\htdocs\wordpress\Clariwell/wp-content/themes/clariwell/demos/home-5/home-5.wie
+Customizer file = not defined!
+Redux files:
+ins_opt -> C:\xampp\htdocs\wordpress\Clariwell/wp-content/themes/clariwell/demos/home-5/home-5.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Side Menu : 
+
+Image - No Title - Imported
+Text - No Title - Imported
+Insignia Contact - Contact Info - Imported
+
+Footer column 1 : 
+
+Text - About Clariwell - Imported
+Custom HTML - No Title - Imported
+
+Footer column 2 : 
+
+Navigation Menu - Services - Imported
+
+Footer column 3 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer column 4 : 
+
+Insignia Contact - Contact Info - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: ins_opt finished successfully!
+
+---ocdi/after_import---
+
